@@ -1,0 +1,1829 @@
+[
+  {
+    "cluster_id": 0,
+    "n_chunks": 57,
+    "representative_chunks": [
+      {
+        "chunk_index": 9018,
+        "title": "Statistical Inference and A/B Testing in Fisher Markets and Paced\n  Auctions",
+        "text_preview": "#### Abstract\n\nWe initiate the study of statistical inference and $\\mathrm{A} / \\mathrm{B}$ testing for two market equilibrium models: linear Fisher market (LFM) equilibrium and first-price pacing equilibrium (FPPE). LFM arises from fair resource allocation systems such as allocation of food to food"
+      },
+      {
+        "chunk_index": 9048,
+        "title": "Statistical Inference and A/B Testing in Fisher Markets and Paced\n  Auctions",
+        "text_preview": "# A.3. Closed-form Expression for Hessian \n\nIn this section we derive a closed form expression for $\\nabla^{2} \\bar{f}(\\beta)$ for some $\\beta \\in \\mathbb{R}_{+}^{n}$ using tools from differential geometry. Let $f_{v}(v)$ be the density of values w.r.t. the Lebesgue measure on $\\mathbb{R}^{n}$. Let "
+      },
+      {
+        "chunk_index": 9049,
+        "title": "Statistical Inference and A/B Testing in Fisher Markets and Paced\n  Auctions",
+        "text_preview": "# Proofs of Fisher Market Results\n## Appendix B: Appendix to Linear Fisher Market\n## B.1. Fairness, efficiency, and Scale Invariance\n\nA major use case for LFM is fair and efficient allocation of resources. Similar to the classical finite LFM, the infinite LFM enjoys fairness and efficiency propertie"
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "n_chunks": 395,
+    "representative_chunks": [
+      {
+        "chunk_index": 13693,
+        "title": "Exploring the AGN Fraction of a Sample of JWST's Little Red Dots at $5 <\n  z < 8$: Overmassive Black Holes Are Strongly Favored",
+        "text_preview": "## 5. DISCUSSION AND CONCLUSIONS\n\nOne of JWST's most surprising findings to date is the omnipresence of extremely red, compact objects in the high- $z$ Universe (Kocevski et al. 2024). These faint, remarkably red sources have been selected in several surveys of different regions of the sky.\nHowever,"
+      },
+      {
+        "chunk_index": 13694,
+        "title": "Exploring the AGN Fraction of a Sample of JWST's Little Red Dots at $5 <\n  z < 8$: Overmassive Black Holes Are Strongly Favored",
+        "text_preview": "# REFERENCES \n\nAgarwal, B., Davis, A. J., Khochfar, S., Natarajan, P., \\& Dunlop, J. S. 2013, MNRAS, 432, 3438, doi: $10.1093 / \\mathrm{mnras} / \\mathrm{stt} 696$\nAird, J., Coil, A. L., Moustakas, J., et al. 2012, ApJ, 746, 90, doi: 10.1088/0004-637X/746/1/90\nAkins, H. B., Casey, C. M., Lambrides, E"
+      },
+      {
+        "chunk_index": 13692,
+        "title": "Exploring the AGN Fraction of a Sample of JWST's Little Red Dots at $5 <\n  z < 8$: Overmassive Black Holes Are Strongly Favored",
+        "text_preview": "### 4.4.2. Polar reddening of AGN torus\n\nIn addition to mid-IR photometry, we also found that the recovered stellar mass and AGN luminosity were highly sensitive to how we modeled the polar reddening, $E(B-V)_{\\text {polar }}$. Here, we discuss how the modeling choices for the polar reddening, such "
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "n_chunks": 96,
+    "representative_chunks": [
+      {
+        "chunk_index": 12124,
+        "title": "Unsolvable Problem Detection: Robust Understanding Evaluation for Large\n  Multimodal Models",
+        "text_preview": "## F. 3 Other Failure Examples\n\nWe show other failure examples in Fig. K, L, M, N, O, and P."
+      },
+      {
+        "chunk_index": 12135,
+        "title": "Unsolvable Problem Detection: Robust Understanding Evaluation for Large\n  Multimodal Models",
+        "text_preview": "## AAD: Attribute Comparison\n\nIn this comparison picture, are the left and right modules the same color?"
+      },
+      {
+        "chunk_index": 12134,
+        "title": "Unsolvable Problem Detection: Robust Understanding Evaluation for Large\n  Multimodal Models",
+        "text_preview": "## GPT-40's Answer\n\n$\\times$ The statement that matches the image is:\nA. A red rectangle is below a blue ellipse."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "n_chunks": 75,
+    "representative_chunks": [
+      {
+        "chunk_index": 4130,
+        "title": "Two-stage Estimators for Spatial Confounding with Point-Referenced Data",
+        "text_preview": "# 1. Introduction \n\nPublic health data are often observational and exhibit spatial dependence, such as in environmental contaminations that may spread over a geographic region (Cressie, 1993). Spatial regression methods can improve efficiency, allow proper uncertainty quantification, and enhance pre"
+      },
+      {
+        "chunk_index": 4152,
+        "title": "Two-stage Estimators for Spatial Confounding with Point-Referenced Data",
+        "text_preview": "# References \n\nAndrews, D. W. K. (1994). Asymptotics for semiparametric econometric models via stochastic equicontinuity. Econometrica 62, 43-72.\n\nBelloni, A., Chernozhukov, V., Fern\u00e1ndez-Val, I., and Hansen, C. (2017). Program evaluation and causal inference with high-dimensional data. Econometrica"
+      },
+      {
+        "chunk_index": 4151,
+        "title": "Two-stage Estimators for Spatial Confounding with Point-Referenced Data",
+        "text_preview": "## S6.1 Proof of DML with partially linear model\n\nIn this section we extend Theorem 4.1 from (Chernozhukov et al., 2018), which analyzes the partially linear model with a scalar treatment, to a vector treatment. The extension essentially follows the proof of Theorem 4.1 from (Chernozhukov et al., 20"
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "n_chunks": 61,
+    "representative_chunks": [
+      {
+        "chunk_index": 10139,
+        "title": "Demystifying amortized causal discovery with transformers",
+        "text_preview": "# D. 5 EXPERIMENTS WITH BIVARIATE INDEPENDENT GRAPHS \n\nIn the main manuscript, we consider training and testing of CSIvA on bivariate graphs with an edge: $X \\rightarrow Y, Y \\rightarrow X$. This can be phrased as a classification problem with two labels. We motivate our choice by noticing that, in "
+      },
+      {
+        "chunk_index": 10128,
+        "title": "Demystifying amortized causal discovery with transformers",
+        "text_preview": "# A LEARNING TO INDUCE: CAUSAL DISCOVERY WITH TRANSFORMERS\n## A. 1 A SUPERVISED LEARNING APPROACH TO CAUSAL DISCOVERY\n\nFirst, we describe the training procedure for the CSIvA architecture, which aims to learn the distribution of causal graphs conditioned on observational and/or interventional datase"
+      },
+      {
+        "chunk_index": 10129,
+        "title": "Demystifying amortized causal discovery with transformers",
+        "text_preview": "## A. 2 CSIVA ARCHITECTURE\n\nIn this section, we summarize the architecture of CSIvA, a transformer neural network that can learn a map from data to causally interpreted graphs, under supervised training.\n\nTransformer neural network. Transformers (Vaswani et al., 2017) are a popular neural network ar"
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 7072,
+        "title": "Virtual Lung Screening Trial (VLST): An In Silico Study Inspired by the\n  National Lung Screening Trial for Lung Cancer Detection",
+        "text_preview": "#### Abstract\n\nClinical imaging trials play a crucial role in advancing medical innovation but are often costly, inefficient, and ethically constrained. Virtual Imaging Trials (VITs) present a solution by simulating clinical trial components in a controlled, risk-free environment. The Virtual Lung S"
+      },
+      {
+        "chunk_index": 7095,
+        "title": "Virtual Lung Screening Trial (VLST): An In Silico Study Inspired by the\n  National Lung Screening Trial for Lung Cancer Detection",
+        "text_preview": "# Appendix C.2: CXR VLST Reader \n\nA 2D RetinaNet-based model has been developed as a virtual reader for lung cancer detection in virtual lung screening trials using chest radiographs (CXR). The NODE21 ${ }^{3}$ public CXR training dataset consists of 4,882 frontal chest radiographs sourced from well"
+      },
+      {
+        "chunk_index": 7094,
+        "title": "Virtual Lung Screening Trial (VLST): An In Silico Study Inspired by the\n  National Lung Screening Trial for Lung Cancer Detection",
+        "text_preview": "## Appendix C.1: CT VLST Reader\n\nThe Virtual Reader for CT scans has undergone development and validation leveraging the LUNA16 clinical dataset. LUNA16, ${ }^{1}$ a publicly accessible dataset, encompasses 1,186 radiologist-verified nodule annotations drawn from 600 CT scans.\n\nFig. 3 presents a com"
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "n_chunks": 80,
+    "representative_chunks": [
+      {
+        "chunk_index": 8393,
+        "title": "Open-FinLLMs: Open Multimodal Large Language Models for Financial\n  Applications",
+        "text_preview": "## D Multimodal Instruction Data\n## D. 1 Table\n\nOur table data is sourced from the Fintabnet and Marketing categories of SynthTabNet, featuring real financial and marketing tables with diverse layouts. Each table includes parsed bounding boxes, allowing us to reconstruct structure-aware prompts, whi"
+      },
+      {
+        "chunk_index": 8411,
+        "title": "Open-FinLLMs: Open Multimodal Large Language Models for Financial\n  Applications",
+        "text_preview": "## F Experiments\n## F. 1 Datasets used for different experiments\n\nDetails of the dataset used for evaluation are listed in Table 8, 9, 10, 11.\n\nTable 9: Datasets used for few-shot evaluation tasks.\n\n![table_6](table_6)\n\nTable 11: Datasets used for multimodal evaluation tasks.\n\n![table_7](table_7)\n\nT"
+      },
+      {
+        "chunk_index": 8410,
+        "title": "Open-FinLLMs: Open Multimodal Large Language Models for Financial\n  Applications",
+        "text_preview": "## Output Format:\n\n$\\{\"$ relevance_score\": \"<Insert relevance score here>\"\\}"
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "n_chunks": 85,
+    "representative_chunks": [
+      {
+        "chunk_index": 4965,
+        "title": "Voronovskaya-Type Asymptotic Expansions and Convergence Analysis for\n  Neural Network Operators in Complex Domains",
+        "text_preview": "## Contents\n\n1 Introduction 2\n2 Preliminaries 3\n2.1 Density Functions on Manifolds . . . . . . . . . . . . . . . . . . . . . . . . . 4\n3 Generalized Neural Network Operators 4\n3.1 Basic Operator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n3.2 Kantorovich-Type Operator . ."
+      },
+      {
+        "chunk_index": 4967,
+        "title": "Voronovskaya-Type Asymptotic Expansions and Convergence Analysis for\n  Neural Network Operators in Complex Domains",
+        "text_preview": "# 2 Preliminaries \n\nLet $\\mathcal{M}$ denote a Riemannian manifold with metric $g_{i j}$, where $g_{i j}$ represents the components of the metric tensor in local coordinates. A manifold $\\mathcal{M}$ is equipped with a set of smooth charts $\\left\\{\\left(U_{i}, \\phi_{i}\\right)\\right\\}_{i \\in I}$, whe"
+      },
+      {
+        "chunk_index": 4968,
+        "title": "Voronovskaya-Type Asymptotic Expansions and Convergence Analysis for\n  Neural Network Operators in Complex Domains",
+        "text_preview": "# 2.1 Density Functions on Manifolds \n\nWe define a generalized density function on the manifold $\\mathcal{M}$ as follows:\n\n$$\n\\phi_{q, \\alpha}(x)=\\frac{1}{\\sqrt{\\operatorname{det}(g(x))}} \\prod_{i=1}^{N} h_{q, \\alpha}\\left(x_{i}\\right), \\quad x \\in \\mathcal{M}\n$$\n\nHere, $\\operatorname{det}(g(x))$ de"
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "n_chunks": 153,
+    "representative_chunks": [
+      {
+        "chunk_index": 5956,
+        "title": "Towards a Quantitative Theory of Digraph-Based Complexes and its\n  Applications in Brain Network Analysis",
+        "text_preview": "## PhD Thesis\n\nHeitor Baldo"
+      },
+      {
+        "chunk_index": 6053,
+        "title": "Towards a Quantitative Theory of Digraph-Based Complexes and its\n  Applications in Brain Network Analysis",
+        "text_preview": "## Directed Simplicial Katz Centralities\n\nLet $\\mathcal{H}_{q} \\in \\mathbb{R}^{n_{q} \\times n_{q}}$. We define the simplicial in- $q$-Katz centrality of $\\sigma \\in \\mathcal{V}_{q}$ as the simplicial analogue of the directed version of the Katz centrality which considers the incoming arcs (2.53), i."
+      },
+      {
+        "chunk_index": 6054,
+        "title": "Towards a Quantitative Theory of Digraph-Based Complexes and its\n  Applications in Brain Network Analysis",
+        "text_preview": "# Simplicial Eigenvector Centralities \n\nThe right simplicial $q$-eigenvector centrality of $\\sigma \\in \\mathcal{V}_{q}$ is defined as the simplicial analogue of the eigenvector centrality (2.55), i.e. as the entry corresponding to $\\sigma$ of the right eigenvector associated with the largest eigenva"
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "n_chunks": 51,
+    "representative_chunks": [
+      {
+        "chunk_index": 5257,
+        "title": "Single-Cell Omics Arena: A Benchmark Study for Large Language Models on\n  Cell Type Annotation Using Single-Cell Data",
+        "text_preview": "#### Abstract\n\nOver the past decade, the revolution in singlecell sequencing has enabled the simultaneous molecular profiling of various modalities across thousands of individual cells, allowing scientists to investigate the diverse functions of complex tissues and uncover underlying disease mechani"
+      },
+      {
+        "chunk_index": 5280,
+        "title": "Single-Cell Omics Arena: A Benchmark Study for Large Language Models on\n  Cell Type Annotation Using Single-Cell Data",
+        "text_preview": "## G Cell Type Annotation Example\n\nThe cell type annotation processes performed by LLMs are detailed in Table 5 to 9. LLMs can analyze each marker provided in the list using the zero-shot chain-of-thought prompt and summarize the final cell type. For brevity, the system message \"You are a biology ex"
+      },
+      {
+        "chunk_index": 5281,
+        "title": "Single-Cell Omics Arena: A Benchmark Study for Large Language Models on\n  Cell Type Annotation Using Single-Cell Data",
+        "text_preview": "# Assistant \n\nTo determine the cell type in peripheral blood mononuclear cells (PBMC) corresponding to the given markers, we need to analyze each marker and its known associations with specific cell types.\n\nHere are the markers provided:\n\n1. MS4A1 (CD20): This is a well-known marker for B cells.\n2. "
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "n_chunks": 107,
+    "representative_chunks": [
+      {
+        "chunk_index": 6789,
+        "title": "CycleResearcher: Improving Automated Research via Automated Review",
+        "text_preview": "# 3.1 ReWard MODEL: CYCLEREVIEWER \n\nWe train CycleReviewer as the Generative Reward model on the Review-5k Dataset. To accurately reflect the academic peer review process, we establish a streamlined evaluation workflow:\n\n$$\n\\text { Paper } \\rightarrow R_{1}, R_{2}, \\ldots, R_{n} \\rightarrow \\text { "
+      },
+      {
+        "chunk_index": 6813,
+        "title": "CycleResearcher: Improving Automated Research via Automated Review",
+        "text_preview": "# E Proxy MSE as an Evaluation Metric \n\nIn peer review, one of the key challenges is assessing the accuracy of review scores in estimating the true quality of a submission, since the ground truth is unknown. To overcome this limitation, we use proxy metrics such as Proxy Mean Squared Error (Proxy MS"
+      },
+      {
+        "chunk_index": 6812,
+        "title": "CycleResearcher: Improving Automated Research via Automated Review",
+        "text_preview": "# D. 3 Literature REVIEW EXPERIMENT \n\nIn this subsection, we evaluate the ability of LLMs to generate research papers with substantial and relevant literature citations. Properly citing a wide range of references is essential in academic writing, as it not only demonstrates a comprehensive understan"
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "n_chunks": 56,
+    "representative_chunks": [
+      {
+        "chunk_index": 11356,
+        "title": "WENDY: Covariance Dynamics Based Gene Regulatory Network Inference",
+        "text_preview": "#### Abstract\n\nDetermining gene regulatory network (GRN) structure is a central problem in biology, with a variety of inference methods available for different types of data. For a widely prevalent and challenging use case, namely single-cell gene expression data measured after intervention at multi"
+      },
+      {
+        "chunk_index": 11373,
+        "title": "WENDY: Covariance Dynamics Based Gene Regulatory Network Inference",
+        "text_preview": "# 5.2 hESC data set \n\nhESC data set considers single-cell expression levels of human embryonic stem cell-derived progenitor cells, measured at 6 time points, $t=0,12,24,36,72,96 \\mathrm{~h}$ (Chu et al., 2016). For each time point, there are $66-172$ cells measured. Such cells are under development "
+      },
+      {
+        "chunk_index": 11364,
+        "title": "WENDY: Covariance Dynamics Based Gene Regulatory Network Inference",
+        "text_preview": "# Algorithm 1: Detailed workflow of WENDY method.\n## 1. Input:\n\nSingle-cell gene expression data at $T=0$ (for $m_{1}$ cells and $n$ genes) and at $T=t$ (for $m_{2}$ cells and the same $n$ genes), both measured after general interventions. Prior knowledge of forbidden edges, $\\mathcal{F}$\n2. Call gr"
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "n_chunks": 59,
+    "representative_chunks": [
+      {
+        "chunk_index": 3065,
+        "title": "Generative Diffusion Models for High Dimensional Channel Estimation",
+        "text_preview": "## F. Complexity Analysis\n\nWe investigate the complexity aspect of the proposed method in this subsection. The metrics we evaluate include the inference floating point operations (FLOPs) count, the latency, and the number of parameters in the model, as shown in Table I. We consider two MIMO sizes to"
+      },
+      {
+        "chunk_index": 3055,
+        "title": "Generative Diffusion Models for High Dimensional Channel Estimation",
+        "text_preview": "## A. Diffusion Model-Based Channel Estimation\n\nWe develop a posterior inference method for channel estimation, leveraging the DM as a deep generative prior. According to the Bayesian philosophy, the channel estimation problem of recovering $\\mathbf{h}$ from $\\mathbf{y}$ in (6) can be framed as cond"
+      },
+      {
+        "chunk_index": 3054,
+        "title": "Generative Diffusion Models for High Dimensional Channel Estimation",
+        "text_preview": "## III. PROPOSED METHODS\n\nFirst, we establish the DM-based channel estimation scheme targeting the full-resolution system (6). Subsequently, we investigate the application to scenarios with low-resolution ADCs. Finally, we consider training adaptations that enable learning the DM without ground trut"
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "n_chunks": 75,
+    "representative_chunks": [
+      {
+        "chunk_index": 9503,
+        "title": "Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio\n  Sensors",
+        "text_preview": "#### Abstract\n\nThis paper proposes a self-learning method to incrementally train (fine-tune) a personalized Keyword Spotting (KWS) model after the deployment on ultra-low power smart audio sensors. We address the fundamental problem of the absence of labeled training data by assigning pseudo-labels "
+      },
+      {
+        "chunk_index": 9524,
+        "title": "Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio\n  Sensors",
+        "text_preview": "## REFERENCES\n\n[1] I. L\u00f3pez-Espejo, Z.-H. Tan, J. H. Hansen, and J. Jensen, \"Deep spoken keyword spotting: An overview,\" IEEE Access, vol. 10, pp. 4169-4199, 2021.\n[2] A. Coucke, M. Chlieh, T. Gisselbrecht, D. Leroy, M. Pourmeyrol, and T. Lavril, \"Efficient keyword spotting using dilated convolution"
+      },
+      {
+        "chunk_index": 9523,
+        "title": "Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio\n  Sensors",
+        "text_preview": "## ACKNOWLEDGMENT\n\nThis work is partly supported by the European Horizon Europe program under grant agreement 101067475. We thank Davide Nadalini for his assistance with the PULP-TrainLib framework."
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "n_chunks": 86,
+    "representative_chunks": [
+      {
+        "chunk_index": 16121,
+        "title": "Distillation of Discrete Diffusion through Dimensional Correlations",
+        "text_preview": "### 4.1 Product models with multi-step sampling can approximate data distribution\n\nWe first show that dimensionally independent denoisers with many steps are capable of approximately recovering a data distribution, which has already been empirically observed in existing studies. To consider varying "
+      },
+      {
+        "chunk_index": 16140,
+        "title": "Distillation of Discrete Diffusion through Dimensional Correlations",
+        "text_preview": "# C. 3 Lower bound of Theorem 3 \n\nWe shall provide an example that yields an $\\Omega(1 / N)$ error between the analytical and true denoisers. Our example even satisfies the following stronger assumption, which is often used in theoretical analysis (e.g., Campbell et al., 2022, Assumption 1):\nAssumpt"
+      },
+      {
+        "chunk_index": 16139,
+        "title": "Distillation of Discrete Diffusion through Dimensional Correlations",
+        "text_preview": "# C. 2 Kolmogorov equations for factorized forward processes \n\nLet us now consider the case where $\\mathcal{X}=\\mathcal{S}^{D}$ and $\\boldsymbol{x}_{t}=\\left(x_{t}^{d}\\right)_{d=1}^{D}$ follows a dimensionally independent forward process with transition rate $Q_{t}^{d}$. Namely, suppose\n\n$$\nq_{t+\\ep"
+      }
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "n_chunks": 59,
+    "representative_chunks": [
+      {
+        "chunk_index": 9394,
+        "title": "LABOR-LLM: Language-Based Occupational Representations with Large\n  Language Models",
+        "text_preview": "# 1. INTRODUCTION \n\nThis paper introduces a new approach to making predictions about the evolution of worker careers that builds on the \"foundation model\" approach recently popularized in generative artificial intelligence. The application we focus on is the problem of predicting a worker's next job"
+      },
+      {
+        "chunk_index": 9425,
+        "title": "LABOR-LLM: Language-Based Occupational Representations with Large\n  Language Models",
+        "text_preview": "# Appendix C: Details for Text Template \n\nThis appendix describes the text template in more detail. The text template starts with a preamble that describes the individual's static covariates, then lists the individual's education level and occupation for each calendar year. Specifically:\n\n1. The fir"
+      },
+      {
+        "chunk_index": 9426,
+        "title": "LABOR-LLM: Language-Based Occupational Representations with Large\n  Language Models",
+        "text_preview": "# C. 1 Template with Numerical Job Titles \n\nIn Section C.1, we use a version of the text template that represents career trajectories with numerical job titles. Instead of using the actual job title such as Cashiers, the numerical template uses job titles like job_144. Here is an example:\n\n```\n<A wo"
+      }
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "n_chunks": 60,
+    "representative_chunks": [
+      {
+        "chunk_index": 5224,
+        "title": "Amortized Bayesian Multilevel Models",
+        "text_preview": "## A. 3 Neural Density Estimation\n\nNeural density estimation (NDE) approximates a target distribution $p(x)$ with a surrogate density $q_{\\boldsymbol{\\phi}}(x)$, where $\\boldsymbol{\\phi}$ denotes learnable weights of a generative neural network $f_{\\boldsymbol{\\phi}}$. This so-called inference netwo"
+      },
+      {
+        "chunk_index": 5211,
+        "title": "Amortized Bayesian Multilevel Models",
+        "text_preview": "# 2.2 Neural Posterior Estimation \n\nRecently, algorithms based on neural posterior estimation (NPE, e.g., Greenberg et al., 2019; Radev et al., 2020a; Gon\u00e7alves et al., 2020) have emerged as a promising alternative to classical MCMC. In NPE, generating draws from the posterior distribution of a Baye"
+      },
+      {
+        "chunk_index": 5209,
+        "title": "Amortized Bayesian Multilevel Models",
+        "text_preview": "# 1.1 Challenges of Posterior Inference in Bayesian Multilevel Models \n\nConsiderable effort has been made to improve the sampling speed of MCMC algorithms, especially for high-dimensional models with rich structure, such as MLMs. This includes step-size adjustments or reparameterizations to work-aro"
+      }
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "n_chunks": 144,
+    "representative_chunks": [
+      {
+        "chunk_index": 16328,
+        "title": "GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data\n  Analysis",
+        "text_preview": "## E. 2 Domain Knowledge Sources\n\nNCBI Gene Database To address nomenclature inconsistencies across expression datasets, we utilized the NCBI Gene database [10] to standardize gene symbols. Our process involved:\n\n1. Extracting official human gene symbols and their synonyms from the NCBI Gene FTP rep"
+      },
+      {
+        "chunk_index": 16337,
+        "title": "GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data\n  Analysis",
+        "text_preview": "# Step 3: Selecting appropriate model based on batch effect\nbatch_effect_detected = detect_batch_effect(X)\nmodel_constructor = LMM if batch_effect_detected else Lasso"
+      },
+      {
+        "chunk_index": 16336,
+        "title": "GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data\n  Analysis",
+        "text_preview": "# Step 2: Extract X and Y for regression analysis\nY = trait_data[trait].values\nX = trait_data.drop(columns=[trait]).values"
+      }
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "n_chunks": 57,
+    "representative_chunks": [
+      {
+        "chunk_index": 17501,
+        "title": "Precisely Measuring the Cosmic Reionization History from IGM Damping\n  Wings Towards Quasars",
+        "text_preview": "## 3 QUASAR DIMENSIONALITY REDUCTION\n\nA critical compoment of the formalism presented in the previous section is the representation of the intrinsic quasar spectrum, $s$, with a DR algorithm. Specifically, before we can compute the likelihood in eqn. (17) we need to: 1) apply a DR algorithm to an en"
+      },
+      {
+        "chunk_index": 17503,
+        "title": "Precisely Measuring the Cosmic Reionization History from IGM Damping\n  Wings Towards Quasars",
+        "text_preview": "### 3.1.2 Hand-Fit Continua\n\nThe previous section discussed the automated continuum fitting, but it is also possible (although tedious) to fit quasar continua by hand. Whether this approach results in continua that are more accurate than the aforementioned automated algorithms is unclear. But hand f"
+      },
+      {
+        "chunk_index": 17504,
+        "title": "Precisely Measuring the Cosmic Reionization History from IGM Damping\n  Wings Towards Quasars",
+        "text_preview": "### 3.2 Dimensionality Reduction Algorithms\n\nA DR algorithm transforms data from a high-dimensional space into a lower dimensional latent space, such that the lower dimensional representation retains as much information as possible from the higher dimensional process. In more concrete terms, our tra"
+      }
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "n_chunks": 51,
+    "representative_chunks": [
+      {
+        "chunk_index": 14490,
+        "title": "Modulated Differentiable STFT and Balanced Spectrum Metric for Freight\n  Train Wheelset Bearing Cross-machine Transfer Fault Diagnosis under Speed\n  Fluctuations",
+        "text_preview": "# Modulated Differentiable STFT and Balanced Spectrum Metric for Freight Train Wheelset Bearing Cross-machine Transfer Fault Diagnosis under Speed Fluctuations \n\nChao $\\mathrm{He}^{a, b}$, Hongmei Shi ${ }^{a, b, *}$, Ruixin $\\mathrm{Li}^{a, b}$, Jianbo $\\mathrm{Li}^{a, b}$ and ZuJun $\\mathrm{Yu}^{a"
+      },
+      {
+        "chunk_index": 14492,
+        "title": "Modulated Differentiable STFT and Balanced Spectrum Metric for Freight\n  Train Wheelset Bearing Cross-machine Transfer Fault Diagnosis under Speed\n  Fluctuations",
+        "text_preview": "#### Abstract\n\nThe service conditions of wheelset bearings has a direct impact on the safe operation of railway heavy haul freight trains as the key components. However, speed fluctuation of the trains and few fault samples are the two main problems that restrict the accuracy of bearing fault diagno"
+      },
+      {
+        "chunk_index": 14493,
+        "title": "Modulated Differentiable STFT and Balanced Spectrum Metric for Freight\n  Train Wheelset Bearing Cross-machine Transfer Fault Diagnosis under Speed\n  Fluctuations",
+        "text_preview": "## 1. Introduction\n\nParallel to the ongoing increase in load weight and operational mileage, heavy haul freight trains are experiencing a decline in service condition. Bearing failures can compromise the dynamic performance of train operations, potentially leading to severe issues such as axle overh"
+      }
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "n_chunks": 57,
+    "representative_chunks": [
+      {
+        "chunk_index": 6109,
+        "title": "Long time behavior of semi-Markov modulated perpetuity and some related\n  processes",
+        "text_preview": "#### Abstract\n\nExamples of stochastic processes whose state space representations involve functions of an integral type structure\n\n$$\nI_{t}^{(a, b)}:=\\int_{0}^{t} b\\left(Y_{s}\\right) e^{-\\int_{s}^{t} a\\left(Y_{s}\\right) d r} d s, \\quad t \\geq 0\n$$\n\nare studied under an ergodic semi-Markovian environ"
+      },
+      {
+        "chunk_index": 6139,
+        "title": "Long time behavior of semi-Markov modulated perpetuity and some related\n  processes",
+        "text_preview": "# 15 Proof of Theorem 2\n### 15.1 Proof of Theorem 2(a)\n\nWe begin with $I_{t}^{(a, b)}=\\Phi_{t}^{(a)} \\widetilde{I}_{t}^{(a, b)}$ where $\\widetilde{I}_{t}^{(a, b)}=\\int_{0}^{t} b\\left(Y_{s}\\right) e^{\\int_{0}^{\\tau} u\\left(Y_{r}\\right) d r} d s$. Fix arbitrary $i, j \\in S$. Observe that on $\\left\\{Y_"
+      },
+      {
+        "chunk_index": 6140,
+        "title": "Long time behavior of semi-Markov modulated perpetuity and some related\n  processes",
+        "text_preview": "# 15.2 Proof of Theorem 2(b) \n\nProof. We will expand $I_{t}^{(a, b)}$ in a different manner than in Theorem 2(a), but before that we set few ideas and notations regarding random walk with zero drift. Fix $i, j \\in S$. Given $E_{\\pi} a(\\cdot)=0$, the random walk generated by the process $\\left(\\sum_{"
+      }
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "n_chunks": 77,
+    "representative_chunks": [
+      {
+        "chunk_index": 7916,
+        "title": "Free cumulants and freeness for unitarily invariant random tensors",
+        "text_preview": "#### Abstract\n\nWe address the question of the asymptotic description of random tensors that are localunitary invariant, that is, invariant by conjugation by tensor products of independent unitary matrices. We consider both the mixed case of a tensor with $D$ inputs and $D$ outputs, and the case wher"
+      },
+      {
+        "chunk_index": 7948,
+        "title": "Free cumulants and freeness for unitarily invariant random tensors",
+        "text_preview": "# 6.5 Mixed random tensors that scale like a Wishart tensor \n\nIn this section, we will discuss the case when our random tensor is mixed rather than pure. As scaling assumption, we will consider mixed random tensors $A$ that scales like the square Wishart random tensor of Section 5.5, that is we assu"
+      },
+      {
+        "chunk_index": 7949,
+        "title": "Free cumulants and freeness for unitarily invariant random tensors",
+        "text_preview": "# 7 Asymptotic tensor freeness\n### 7.1 Matrix freeness\n\nLet us first review the notion of freeness adapted to unitarily invariant random matrices $A, B \\in$ $\\mathcal{M}_{N}(\\mathbb{C})[60,62]$. If $M=\\left(M_{1}, \\ldots, M_{n}\\right) \\in\\{A, B\\}^{n}$ and defining $\\kappa_{n}\\left(m_{1}, \\ldots, m_{"
+      }
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "n_chunks": 61,
+    "representative_chunks": [
+      {
+        "chunk_index": 10407,
+        "title": "On Discriminative Probabilistic Modeling for Self-Supervised\n  Representation Learning",
+        "text_preview": "# 3.4 The NuCLR Algorithm for Self-Supervised Representation Learning \n\nBy substituting the $\\hat{\\mathbf{q}}$ from the non-parametric method described in Section 3.3, the problem of minimizing the empirical risk of DPM in (5) becomes\n\n$$\n\\min _{\\mathbf{w} \\in \\mathcal{W}} \\hat{\\mathcal{L}}(\\mathbf{"
+      },
+      {
+        "chunk_index": 10409,
+        "title": "On Discriminative Probabilistic Modeling for Self-Supervised\n  Representation Learning",
+        "text_preview": "# 5 CONCLUSION \n\nIn this paper, we tackle the discriminative probabilistic modeling problem on a continuous space by leveraging the multiple importance sampling (MIS) method and proposing a novel nonparametric method for approximating the sum of conditional probability densities required by MIS, whi"
+      },
+      {
+        "chunk_index": 10410,
+        "title": "On Discriminative Probabilistic Modeling for Self-Supervised\n  Representation Learning",
+        "text_preview": "## ACKNOWLEDGMENTS\n\nB. Wang and T. Yang were partially supported by the NSF SCH grant 2306572."
+      }
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "n_chunks": 119,
+    "representative_chunks": [
+      {
+        "chunk_index": 4055,
+        "title": "Specialized Foundation Models Struggle to Beat Supervised Baselines",
+        "text_preview": "#### Abstract\n\nFollowing its success for vision and text, the \"foundation model\" (FM) paradigm\u2014pretraining large models on massive data, then fine-tuning on target tasks-has rapidly expanded to domains in the sciences, engineering, healthcare, and beyond. Has this achieved what the original FMs acco"
+      },
+      {
+        "chunk_index": 4087,
+        "title": "Specialized Foundation Models Struggle to Beat Supervised Baselines",
+        "text_preview": "# F ZERO-SHOT AUTO-AR \n\nIn this section, we describe how to run Auto-AR in a zero-shot manner, enabling a direct and fair comparison with ZS time series FMs. This approach is a check on the performance of such models, serving as a minimal baseline that they should be expected to overcome.\n\nGiven an "
+      },
+      {
+        "chunk_index": 4086,
+        "title": "Specialized Foundation Models Struggle to Beat Supervised Baselines",
+        "text_preview": "# E SUBSAMPLING EXPERIMENTS \n\nA common argument in favor of FMs is that they perform better in data-limited regime. Here, we examine the sensitivity of our results to downscaling the amount of available data. Specifically, for each domain-specific dataset, we use only $20 \\%$ of the original data to"
+      }
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "n_chunks": 66,
+    "representative_chunks": [
+      {
+        "chunk_index": 8584,
+        "title": "Chapman-Enskog theory and crossover between diffusion and superdiffusion\n  for nearly integrable quantum gases",
+        "text_preview": "# 4.2 Euler scale \n\nConsider first of the equations in (104). This equation implies that $\\rho_{\\mathrm{p}}^{(0)}$ is a stationary state of the collision integral. Because the collision integral acts only on the rapidity dependence of $\\rho_{\\mathrm{p}}^{(0)}$, the parameters of the stationary state"
+      },
+      {
+        "chunk_index": 8577,
+        "title": "Chapman-Enskog theory and crossover between diffusion and superdiffusion\n  for nearly integrable quantum gases",
+        "text_preview": "# 2.5 Mesoscopic conservation laws \n\nIn this section we make the first steps towards recovering hydrodynamic equations from GHDBoltzmann equation (14). We start by writing the equations for the dynamics of the first three charges. Existence of three collision invariants leads to three mesoscopic con"
+      },
+      {
+        "chunk_index": 8578,
+        "title": "Chapman-Enskog theory and crossover between diffusion and superdiffusion\n  for nearly integrable quantum gases",
+        "text_preview": "# 2.6 Relevant lengthscales \n\nIn the GHD-Boltzmann equation we have (at least) 3 relevant scales in the system. There is a microscopic length-scale $l_{\\mathfrak{D}}$, (given by the scattering shift of the integrable theory), there is a hydrodynamic length-scale $l_{\\mathrm{h}}$ at which $\\rho_{\\mat"
+      }
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "n_chunks": 97,
+    "representative_chunks": [
+      {
+        "chunk_index": 1204,
+        "title": "Sylber: Syllabic Embedding Representation of Speech from Raw Audio",
+        "text_preview": "#### Abstract\n\nSyllables are compositional units of spoken language that efficiently structure human speech perception and production. However, current neural speech representations lack such structure, resulting in dense token sequences that are costly to process. To bridge this gap, we propose a n"
+      },
+      {
+        "chunk_index": 1224,
+        "title": "Sylber: Syllabic Embedding Representation of Speech from Raw Audio",
+        "text_preview": "## A.1.4 TOKEN-TO-SPEECH\n\nSPARC The target of our token-to-speech model is processed by SPARC (Cho et al., 2024c), which is composed of articulatory encoding and decoding. The encoding pipeline outputs 14 articulatory features at 50 Hz , which are composed of the XY coordinates of 6 articulators (lo"
+      },
+      {
+        "chunk_index": 1225,
+        "title": "Sylber: Syllabic Embedding Representation of Speech from Raw Audio",
+        "text_preview": "# A.1.5 Sylber Training Details \n\nWe train Sylber in two stages. The first stage is training with segment boundaries inferred from SDHuBERT which are extracted once at the beginning and fixed while in this stage. The second stage utilizes online segmentation using the teacher model's outputs, by the"
+      }
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "n_chunks": 60,
+    "representative_chunks": [
+      {
+        "chunk_index": 13143,
+        "title": "Audio-Visual Target Speaker Extraction with Reverse Selective Auditory\n  Attention",
+        "text_preview": "## V. EXPERIMENTAL SETTING\n## A. Training set\n\n1) LRS2: The LRS2 audio-visual speech recognition dataset [49] is derived from BBC television. Each video clip contains one person's synchronized audio-visual signal. To simulate one mixed audio, we randomly pick one sample's speech waveform and visual "
+      },
+      {
+        "chunk_index": 13138,
+        "title": "Audio-Visual Target Speaker Extraction with Reverse Selective Auditory\n  Attention",
+        "text_preview": "## H. Loss function\n\nThe scale-invariant signal-to-distortion ratio (SI-SDR) loss [50] can measure the reconstruction error between the estimated audio $\\hat{p}$ and the ground-truth audio $p$. We denote it by $l(\\cdot, \\cdot)$ :\n\n$$\nl(\\hat{p}, p)=-10 \\log _{10}\\left(\\frac{\\left\\|\\frac{\\leq \\hat{p},"
+      },
+      {
+        "chunk_index": 13139,
+        "title": "Audio-Visual Target Speaker Extraction with Reverse Selective Auditory\n  Attention",
+        "text_preview": "## IV. EXPLORATION OF MULTI-MODAL INTERACTION\n\nCompared with the audio-only TSE, AV-TSE has the advantages of leveraging the audio-visual correlation. Motivated by that, we adapt our design and propose different multimodal interaction methods to boost SEANet. This utilizes lip movements to assist th"
+      }
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "n_chunks": 62,
+    "representative_chunks": [
+      {
+        "chunk_index": 9343,
+        "title": "Discovery of novel antimicrobial peptides with notable antibacterial\n  potency by a LLM-based foundation model",
+        "text_preview": "## Corresponding authors\n\nTingjun Hou<br>E-mail: tingjunhou@zju.edu.cn<br>Zhihui Jiang<br>E-mail: jandsphy@163.com<br>Chang-Yu Hsieh<br>E-mail: kimhsieh@zju.edu.cn"
+      },
+      {
+        "chunk_index": 9362,
+        "title": "Discovery of novel antimicrobial peptides with notable antibacterial\n  potency by a LLM-based foundation model",
+        "text_preview": "## Bacteria\n\nThe standard bacterial strains utilized in this work including Enterococcus faecalis\n\nATCC 29212, Staphylococcus aureus ATCC 29213, Klebsiella pneumoniae ATCC 700603, Acinetobacter baumannii ATCC 19606, Pseudomonas aeruginosa ATCC 27853 and Escherichia coli ATCC 25922 were provided by m"
+      },
+      {
+        "chunk_index": 9363,
+        "title": "Discovery of novel antimicrobial peptides with notable antibacterial\n  potency by a LLM-based foundation model",
+        "text_preview": "# Mice \n\nMale BALB/c mice (6-8 weeks, 18-22 g) were purchased from Guangdong Medical Laboratory Animal Center. All animal experiments were performed according to the 'Principles of Laboratory Animal Care' (NIH publication No. 86-23, revised 1985) and approved by the Institutional Animal Care and Use"
+      }
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "n_chunks": 105,
+    "representative_chunks": [
+      {
+        "chunk_index": 4345,
+        "title": "Combining BART and Principal Stratification to estimate the effect of\n  intermediate variables on primary outcomes with application to estimating the\n  effect of family planning on employment in Nigeria and Senegal",
+        "text_preview": "## Sensitivity to violation of support inclusion\n\nFigure 5 displays the estimated standardized selection score among four groups: (1) compliers in the source study, and, based on the DHS information, (2) all women residing in urban areas in the same states or regions represented in the source study,"
+      },
+      {
+        "chunk_index": 4326,
+        "title": "Combining BART and Principal Stratification to estimate the effect of\n  intermediate variables on primary outcomes with application to estimating the\n  effect of family planning on employment in Nigeria and Senegal",
+        "text_preview": "## Assumption 2 (Overlap).\n\n$0<P\\left(Z_{i}=1 \\mid X_{i}\\right)<1$, or just $P\\left(Z_{i}=1 \\mid X_{i}\\right)<1$, if we focus on the effect among the treated, i.e., the assignment is not a deterministic function of the baseline covariates."
+      },
+      {
+        "chunk_index": 4327,
+        "title": "Combining BART and Principal Stratification to estimate the effect of\n  intermediate variables on primary outcomes with application to estimating the\n  effect of family planning on employment in Nigeria and Senegal",
+        "text_preview": "## Assumption 3 (Monotonicity).\n\n$W_{i}^{*}(1) \\geq W_{i}^{*}(0)$, i.e., there are no defiers."
+      }
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "n_chunks": 58,
+    "representative_chunks": [
+      {
+        "chunk_index": 3874,
+        "title": "Theory of fractional quantum Hall liquids coupled to quantum light and\n  emergent graviton-polaritons",
+        "text_preview": "## I. INTRODUCTION\n\nThe possibility of controlling quantum matter properties via cavity embedding has sparked a lot of interest in recent years [1-4]. Vacuum fluctuations of strongly confined electromagnetic modes have been proposed as handles on various phenomena [5-20], and pioneering experiments "
+      },
+      {
+        "chunk_index": 3906,
+        "title": "Theory of fractional quantum Hall liquids coupled to quantum light and\n  emergent graviton-polaritons",
+        "text_preview": "## Appendix G: Large cavity frequency limit\n\nIn this appendix we briefly discuss the large cavity frequency limit $\\omega_{c} \\gg V_{0}$. This regime is subtle within the truncated model, as higher Landau level corrections become significant when $\\omega_{c}$ approaches the cyclotron gap $\\omega_{B}"
+      },
+      {
+        "chunk_index": 3905,
+        "title": "Theory of fractional quantum Hall liquids coupled to quantum light and\n  emergent graviton-polaritons",
+        "text_preview": "## Appendix F: Excited state targeting\n\nIn this section we present additional numerical result on the DMRG excited state targetting used in the main text (Fig. 6). As discussed in Ref. [93], excited states of local effective Hamiltonians constructed during DMRG sweeps are good approximations to exci"
+      }
+    ]
+  },
+  {
+    "cluster_id": 41,
+    "n_chunks": 52,
+    "representative_chunks": [
+      {
+        "chunk_index": 1693,
+        "title": "Granger causal inference for climate change attribution",
+        "text_preview": "#### Abstract\n\nClimate change detection and attribution (D\\&A) is concerned with determining the extent to which anthropogenic activities have influenced specific aspects of the global climate system. D\\&A fits within the broader field of causal inference, the collection of statistical methods that "
+      },
+      {
+        "chunk_index": 1721,
+        "title": "Granger causal inference for climate change attribution",
+        "text_preview": "# Test for stationarity of original measurements\n#=========================================================================\nadf.test(data_df$GMST)\nadf.test(data_df$ANT)\nadf.test(data_df$vSACD)\nadf.test(data_df$Nino34)"
+      },
+      {
+        "chunk_index": 1722,
+        "title": "Granger causal inference for climate change attribution",
+        "text_preview": "# GMST and ANT are nonstationary!\n#=========================================================================\n# Calculate first-order differences\n#=========================================================================\nf_create_lagmat <- function(x, p){\n    N <- length(x)\n    mat <- matrix(0, N, p)"
+      }
+    ]
+  },
+  {
+    "cluster_id": 42,
+    "n_chunks": 51,
+    "representative_chunks": [
+      {
+        "chunk_index": 16692,
+        "title": "Classifying acoustic cavitation with machine learning trained on\n  multiple physical models",
+        "text_preview": "# Classifying acoustic cavitation with machine learning \n\nAcoustic cavitation threshold charts are used to map between acoustic parameters (mainly intensity and frequency) and different regimes of acoustic cavitation. The two main regimes are transient cavitation, where a bubble collapses, and stabl"
+      },
+      {
+        "chunk_index": 16712,
+        "title": "Classifying acoustic cavitation with machine learning trained on\n  multiple physical models",
+        "text_preview": "# III. RESULTS \n\nThis section presents the computational results of our machine learning designs to predict stable and transient cavitation types."
+      },
+      {
+        "chunk_index": 16713,
+        "title": "Classifying acoustic cavitation with machine learning trained on\n  multiple physical models",
+        "text_preview": "## A. Computational settings\n\nThe differential equations governing bubble dynamics (see Section II A) were non-dimensionalized to improve computational robustness. Specifically, the radius was non-dimensionalized by the equilibrium radius $R_{0}$, resulting in the non-dimensional radius $R / R_{0}$."
+      }
+    ]
+  },
+  {
+    "cluster_id": 43,
+    "n_chunks": 64,
+    "representative_chunks": [
+      {
+        "chunk_index": 14269,
+        "title": "Towards Homogeneous Lexical Tone Decoding from Heterogeneous\n  Intracranial Recordings",
+        "text_preview": "# E Broader Impacts \n\nThe homogeneity-heterogeneity disentangled learning for neural representations (H2DiLR) presented in this paper aims to advance domains of both fundamental machine learning algorithms and neuroscience.\n\nFrom the standpoint of algorithmic progress, H2DiLR marks a leap forward in"
+      },
+      {
+        "chunk_index": 14250,
+        "title": "Towards Homogeneous Lexical Tone Decoding from Heterogeneous\n  Intracranial Recordings",
+        "text_preview": "#### Abstract\n\nRecent advancements in brain-computer interfaces (BCIs) have enabled the decoding of lexical tones from intracranial recordings, offering the potential to restore the communication abilities of speech-impaired tonal language speakers. However, data heterogeneity induced by both physio"
+      },
+      {
+        "chunk_index": 14251,
+        "title": "Towards Homogeneous Lexical Tone Decoding from Heterogeneous\n  Intracranial Recordings",
+        "text_preview": "## 1 INTRODUCTION\n\nThe human language system, with its intricate and expansive syntactic structure, enables rich and complex communication. Decoding spoken language from within human brains has emerged as a significant topic of interest in neuroscience (Anumanchipalli et al., 2019; Willett et al., 2"
+      }
+    ]
+  },
+  {
+    "cluster_id": 44,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 14009,
+        "title": "ZIF-90 treats fungal keratitis by promoting macrophage apoptosis and\n  inhibiting inflammatory response",
+        "text_preview": "# 2. Materials and methods\n## Synthesis and characterization of ZIF-90\n\nA zinc nitrate aqueous solution was prepared as solution A, while imidazole-2carboxaldehyde (ICA) and polyvinylpyrrolidone (PVP) were dissolved to form solution B. In the water/ethanol/PVP system, zinc nitrate was dissolved in a"
+      },
+      {
+        "chunk_index": 14012,
+        "title": "ZIF-90 treats fungal keratitis by promoting macrophage apoptosis and\n  inhibiting inflammatory response",
+        "text_preview": "# Cell viability test \n\nThe Cell Counting Kit 8 (CCK-8) kit was used to detect the cytotoxicity of ZIF-8, ZIF67, MOF-74 (Zn), and ZIF-90 against HCECs and RAW 264.7 cells. RAW 264.7 cells (Obtained from the Academy of Sciences in Shanghai) were inoculated onto 96-well plates. When the cells grew int"
+      },
+      {
+        "chunk_index": 14013,
+        "title": "ZIF-90 treats fungal keratitis by promoting macrophage apoptosis and\n  inhibiting inflammatory response",
+        "text_preview": "## Minimum inhibitory concentration (MIC)\n\nA spore suspension of $3 \\times 10^{5} \\mathrm{CFU} / \\mathrm{mL}$ was inoculated into a 96 -well plate, followed by the addition of ZIF-8, ZIF-6, and ZIF-90 to achieve final concentrations of 2, 4, 8, 16, 32,64 , and $128 \\mu \\mathrm{~g} / \\mathrm{mL}$, re"
+      }
+    ]
+  },
+  {
+    "cluster_id": 45,
+    "n_chunks": 60,
+    "representative_chunks": [
+      {
+        "chunk_index": 185,
+        "title": "FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics",
+        "text_preview": "#### Abstract\n\nMetagenomic data, comprising mixed multi-species genomes, are prevalent in diverse environments like oceans and soils, significantly impacting human health and ecological functions. However, current research relies on K-mer, which limits the capture of structurally and functionally re"
+      },
+      {
+        "chunk_index": 209,
+        "title": "FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics",
+        "text_preview": "## F Prelinaries.\n\nTransformers are the dominant tools for modeling sequence data. In Transformer, the input sequence is first transformed into a series of vectors, each corresponding to an element of the sequence (e.g., a word or character), which are generated by an embedding layer.\n\nSubsequently,"
+      },
+      {
+        "chunk_index": 208,
+        "title": "FGBERT: Function-Driven Pre-trained Gene Language Model for Metagenomics",
+        "text_preview": "# E Broader Impacts \n\nIn our work, we focus on the wider application of macro-genomic pre-training models, particularly in the field of functional annotation. We argue that the positive societal impacts of such models include, but are not limited to, improved disease surveillance and prediction, fac"
+      }
+    ]
+  },
+  {
+    "cluster_id": 47,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 7189,
+        "title": "Error-controlled non-additive interaction discovery in machine learning\n  models",
+        "text_preview": "# A. 6 Real experiments \n\n![img-9.jpeg](img-9.jpeg)\n\nFig. A.4: Evaluating Diamond on a real Drosophila enhancer dataset with FT-Transformer models. (a) Diamond is applied with FT-Transformer model to identify important non-additive interactions. Each possible interaction is measured by the minimum F"
+      },
+      {
+        "chunk_index": 7180,
+        "title": "Error-controlled non-additive interaction discovery in machine learning\n  models",
+        "text_preview": "### 4.7 Alternative FDR estimation methods\n\nWe evaluate the performance of Diamond in comparison to three baseline methods. For the first two baseline methods, we employ a permutation-based approach to calculate the interaction-wise FDR. Specifically, this involves using a previously described permu"
+      },
+      {
+        "chunk_index": 7179,
+        "title": "Error-controlled non-additive interaction discovery in machine learning\n  models",
+        "text_preview": "### 4.6 Knockoff generation\n\nDiamond relies on knockoffs to control the FDR. It is worth mentioning that conventional knockoffs are limited to Gaussian settings, which may not be applicable in many practical scenarios. In this study, we focused on the state-of-the-art knockoff design without assumin"
+      }
+    ]
+  },
+  {
+    "cluster_id": 48,
+    "n_chunks": 83,
+    "representative_chunks": [
+      {
+        "chunk_index": 10591,
+        "title": "UniGEM: A Unified Approach to Generation and Property Prediction for\n  Molecules",
+        "text_preview": "### 3.1.1 EXPERIMENTAL RESULTS FOR MOLECULE GENERATION\n\nBaselines UniGEM is implemented based on the codebase of a classic 3D molecular diffusion algorithm, EDM (Hoogeboom et al., 2022). Thus, our baseline comprises EDM and its variants, GDM (Hoogeboom et al., 2022), EDM-Bridge (Wu et al., 2022) and"
+      },
+      {
+        "chunk_index": 10607,
+        "title": "UniGEM: A Unified Approach to Generation and Property Prediction for\n  Molecules",
+        "text_preview": "# D. 2 3D Molecular Pre-Training \n\nMolecular pre-training methods aim to learn molecular representations that are useful for various downstream tasks, especially property prediction. Common molecular pre-training methods include graph masking (Hu et al., 2020; Hou et al., 2022; Rong et al., 2020; Fe"
+      },
+      {
+        "chunk_index": 10602,
+        "title": "UniGEM: A Unified Approach to Generation and Property Prediction for\n  Molecules",
+        "text_preview": "## B SUPPLEMENTARY EXPERIMENTS\n## B. 1 APPlying UniGEM to Advanced Generative Methods\n\nAs UniGEM is a flexible framework that can adapt to various generation algorithms, we expect it to produce better results when adapted to more advanced generation algorithms. To illustrate this, we conducted addit"
+      }
+    ]
+  },
+  {
+    "cluster_id": 49,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 8968,
+        "title": "Complement or substitute? How AI increases the demand for human skills",
+        "text_preview": "#### Abstract\n\nThis paper examines whether artificial intelligence (AI) acts as a substitute or complement to human labour, drawing on 12 million online job vacancies from the United States spanning 2018-2023. We adopt a two-pronged approach: first, analysing \"internal effects\" within roles explicit"
+      },
+      {
+        "chunk_index": 8995,
+        "title": "Complement or substitute? How AI increases the demand for human skills",
+        "text_preview": "# External Effects \n\nFinally, our findings show that AI adoption generates substantial external effects at the occupational, industry, and regional levels. Growth in AI roles corresponds with increased demand for non-AI complementary roles and a decline in non-AI substitutable roles. This pattern ap"
+      },
+      {
+        "chunk_index": 8996,
+        "title": "Complement or substitute? How AI increases the demand for human skills",
+        "text_preview": "# Limitations \n\nFinally, this study faces several limitations. First, as noted by Acemoglu et al. (2021) and Carnevale et al. (2014), online vacancy postings tend to overrepresent professional and technical occupations relative to blue-collar jobs. Moreover, the data exclude alternative hiring chann"
+      }
+    ]
+  },
+  {
+    "cluster_id": 50,
+    "n_chunks": 56,
+    "representative_chunks": [
+      {
+        "chunk_index": 18311,
+        "title": "Fitting Coarse-Grained Models to Macroscopic Experimental Data via\n  Automatic Differentiation",
+        "text_preview": "# 2.5 Joint Optimization \n\nUntil now, we have considered fitting parameters to individual target properties - either structural, mechanical, or thermodynamic. Ideally, parameters should be simultaneously optimized using a joint loss function that describes multiple targets. To carry this out, we fir"
+      },
+      {
+        "chunk_index": 18314,
+        "title": "Fitting Coarse-Grained Models to Macroscopic Experimental Data via\n  Automatic Differentiation",
+        "text_preview": "# 4 Materials and Methods \n\nHere we provide details on the DNA, RNA, and DNA-protein models optimized in this work as well as the method for stochastic gradient estimation given knowledge of unnormalized probabilities developed independently by Zhang et al. [30] and Thaler and Zavadlav [29]."
+      },
+      {
+        "chunk_index": 18315,
+        "title": "Fitting Coarse-Grained Models to Macroscopic Experimental Data via\n  Automatic Differentiation",
+        "text_preview": "### 4.1 Force Fields\n### 4.1.1 oxDNA and oxRNA\n\nThe oxDNA force field is a coarse-grained model of DNA first introduced in 2010 by Thomas Ouldridge [69]. Originally intended to capture DNA properties salient to DNA nanotechnological devices - hybridization, mechanical properties of both single- and "
+      }
+    ]
+  },
+  {
+    "cluster_id": 53,
+    "n_chunks": 93,
+    "representative_chunks": [
+      {
+        "chunk_index": 9542,
+        "title": "Supervised Autoencoders with Fractionally Differentiated Features and\n  Triple Barrier Labelling Enhance Predictions on Noisy Data",
+        "text_preview": "#### Abstract\n\nThis paper investigates the enhancement of financial time series forecasting with the use of neural networks through supervised autoencoders (SAE), to improve investment strategy performance. Using the Sharpe and Information Ratios, it specifically examines the impact of noise augment"
+      },
+      {
+        "chunk_index": 9554,
+        "title": "Supervised Autoencoders with Fractionally Differentiated Features and\n  Triple Barrier Labelling Enhance Predictions on Noisy Data",
+        "text_preview": "## 4 Model Training Considerations\n### 4.1 Data Augmentation\n\nData augmentation is a technique that has been pivotal in addressing the issues of overfitting and underrepresentation in machine learning. Originally, its use was most prominent in computer vision problems, where it significantly enhance"
+      },
+      {
+        "chunk_index": 9545,
+        "title": "Supervised Autoencoders with Fractionally Differentiated Features and\n  Triple Barrier Labelling Enhance Predictions on Noisy Data",
+        "text_preview": "## Introduction\n\nThis research explores an Algorithmic Investment Strategy (AIS) using Supervised Autoencoder - Multi-Layer Perceptron (SAE-MLP) networks, focusing on high-frequency price data. We address two key questions:\n\n- RQ1. Does data augmentation and denoising via autoencoders combined with "
+      }
+    ]
+  },
+  {
+    "cluster_id": 54,
+    "n_chunks": 158,
+    "representative_chunks": [
+      {
+        "chunk_index": 1822,
+        "title": "Mutual Coupling-Aware Channel Estimation and Beamforming for\n  RIS-Assisted Communications",
+        "text_preview": "#### Abstract\n\nThis work studies the problems of channel estimation and beamforming for active reconfigurable intelligent surface (RIS)-assisted multiple-input multiple-output (MIMO) communication, incorporating the mutual coupling (MC) effect through an electromagnetically consistent model based on"
+      },
+      {
+        "chunk_index": 1852,
+        "title": "Mutual Coupling-Aware Channel Estimation and Beamforming for\n  RIS-Assisted Communications",
+        "text_preview": "## APPENDIX C\n## Proof of Proposition 1\n\nBoth functions, $f(\\gamma)$ and $g\\left(\\gamma \\mid \\gamma_{i}\\right)$, are a mapping: $\\mathbb{C}^{N_{1}} \\rightarrow$ $\\mathbb{R}$. Following the complex-value differentiation theory in [57], [60], we rewrite the two functions $f(\\gamma)$ and $g\\left(\\gamma"
+      },
+      {
+        "chunk_index": 1851,
+        "title": "Mutual Coupling-Aware Channel Estimation and Beamforming for\n  RIS-Assisted Communications",
+        "text_preview": "## APPENDIX B\n## BACKGROUND OF SUCCESSIVE CONVEX APPROXIMATION\n\nSCA is a general framework that can decompose a complex optimization problem into a series of simpler optimization problems [56], [59]. Consider the following general optimization problem as an example:\n\n$$\n\\min _{\\mathbf{x}} f(\\mathbf{"
+      }
+    ]
+  },
+  {
+    "cluster_id": 56,
+    "n_chunks": 64,
+    "representative_chunks": [
+      {
+        "chunk_index": 2620,
+        "title": "One-inflated zero-truncated Poisson and negative binomial regression\n  models",
+        "text_preview": "### 4.5 Estimated marginal effects and their standard errors\n\nOf particular importance are the marginal effects that individual characteristics or policies in $X$ and $Z$ have on the expected number of counts $\\mathbb{E}\\left[y_{i}\\right]$. Obtaining the estimated marginal effects is a standard goal"
+      },
+      {
+        "chunk_index": 2613,
+        "title": "One-inflated zero-truncated Poisson and negative binomial regression\n  models",
+        "text_preview": "# 4 Estimation, testing, and marginal effects \n\nVarious issues relating to the estimation of the models are discussed in this section: maximization of the log-likelihoods; estimation of variance-covariance matrices and their related uses such as tests for no one-inflation and tests of significance; "
+      },
+      {
+        "chunk_index": 2622,
+        "title": "One-inflated zero-truncated Poisson and negative binomial regression\n  models",
+        "text_preview": "# 5 Simulation studies \n\n![table_0](table_0)\n\nTable 1: Percent biases of the MLEs from various models, under a one-inflated DGP (either OIPP or OIZTNB).\n\nSimulation studies are undertaken to examine the percent bias of various maximum likelihood estimators (MLEs) under different data generating proc"
+      }
+    ]
+  },
+  {
+    "cluster_id": 59,
+    "n_chunks": 80,
+    "representative_chunks": [
+      {
+        "chunk_index": 14271,
+        "title": "Robust Regulation of Labour Contracts",
+        "text_preview": "# 1 Model \n\nThere are three players: the regulator (they), the firm (she) and the worker (he).\n\nTechnologies. A technology $\\mathcal{T}=(k, \\mathcal{A}) \\in \\mathbb{R}_{+} \\times 2^{\\mathbb{R}_{+} \\times \\Delta\\left(\\mathbb{R}_{+}\\right)}$consists in an operating $\\operatorname{cost} k \\in \\mathbb{R"
+      },
+      {
+        "chunk_index": 14284,
+        "title": "Robust Regulation of Labour Contracts",
+        "text_preview": "# A. 2 Proof of Theorem 1 (ii) \n\nTo prove that $\\mathcal{C}_{\\alpha}^{\\star}=\\left\\{w \\in \\mathcal{C}_{0}: w(y) \\geq \\frac{\\alpha-1}{2 \\alpha-1} y\\right.$ for all $\\left.y \\geq 0\\right\\} \\subset \\mathcal{C}_{0}$ is optimal, we show that the associated regulator's worst-case regret is\n\n$$\nW C R\\left("
+      },
+      {
+        "chunk_index": 14278,
+        "title": "Robust Regulation of Labour Contracts",
+        "text_preview": "# 2.4.2 Optimality of $\\mathcal{C}_{\\alpha}^{\\star}$ \n\nThe second part of the proof shows that the two technologies constructed in the first part (Step 1) are the worst-case scenarios for the regulation $\\mathcal{C}_{\\alpha}^{\\star}$. Specifically, we first\n\nprove that the regulator's regret under $"
+      }
+    ]
+  },
+  {
+    "cluster_id": 61,
+    "n_chunks": 58,
+    "representative_chunks": [
+      {
+        "chunk_index": 10947,
+        "title": "Prompting Depth Anything for 4K Resolution Accurate Metric Depth\n  Estimation",
+        "text_preview": "## C. More Details\n## C.1. Details about Our Model\n\nWe employ the ViT-large model from Depth Anything v2 [76] as our backbone model. The shallow convolutional network consists of two convolutional layers, each with a kernel size of 3 and a stride of 1 , utilizing ReLU as the nonlinear activation fun"
+      },
+      {
+        "chunk_index": 10942,
+        "title": "Prompting Depth Anything for 4K Resolution Accurate Metric Depth\n  Estimation",
+        "text_preview": "## A. Additional Discussions\n## A.1. Generalizability to Different Resolutions\n\nThis section discusses the generalization capability of our model across different image and lidar depth resolutions provided by ARKit4 and ARKit6. ARKit4 captures images at a maximum resolution of $1440 \\times 1920$ at "
+      },
+      {
+        "chunk_index": 10941,
+        "title": "Prompting Depth Anything for 4K Resolution Accurate Metric Depth\n  Estimation",
+        "text_preview": "## References\n\n[1] Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, et al. Gpt-4 technical report. arXiv, 2023. 2, 3\n[2] Jonathan T Barron, Ben Mildenhall, Dor Verbin, Pratul P Srinivasan, an"
+      }
+    ]
+  },
+  {
+    "cluster_id": 62,
+    "n_chunks": 54,
+    "representative_chunks": [
+      {
+        "chunk_index": 7355,
+        "title": "Hoping for the best while preparing for the worst in the face of\n  uncertainty: a new type of incomplete preferences",
+        "text_preview": "# 3.2 Characterization of concordant hope-and-prepare preferences\n### 3.2.1 Axioms\n\nThe necessary and sufficient conditions identified in Echenique et al. (2022) for the identity $C=D$ to hold in their twofold multiprior preference representation are also necessary and sufficient in our representati"
+      },
+      {
+        "chunk_index": 7347,
+        "title": "Hoping for the best while preparing for the worst in the face of\n  uncertainty: a new type of incomplete preferences",
+        "text_preview": "#### Abstract\n\nWe propose and axiomatize a new model of incomplete preferences under uncertainty, which we call hope-and-prepare preferences. Act $f$ is considered more desirable than act $g$ when, and only when, both an optimistic evaluation, computed as the welfare level attained in a best-case sc"
+      },
+      {
+        "chunk_index": 7352,
+        "title": "Hoping for the best while preparing for the worst in the face of\n  uncertainty: a new type of incomplete preferences",
+        "text_preview": "### 2.2.2 Discussion\n\nTake such a preference relation $\\succ$, with representation $(u, C, D)$. An act $f$ is preferred to an act $g$ if and only if $f$ gives a higher expected utility than $g$ when they are evaluated according to their best-case scenario in $D$, and gives a higher expected utility "
+      }
+    ]
+  },
+  {
+    "cluster_id": 63,
+    "n_chunks": 55,
+    "representative_chunks": [
+      {
+        "chunk_index": 17703,
+        "title": "Broker-Trader Partial Information Nash-Equilibria",
+        "text_preview": "# Broker-Trader Partial Information Nash Equilibria \n\n$$\n=\\mathbb{E}\\left[\\int_{0}^{T}\\left|\\xi_{t}^{[n]}-\\xi_{t}^{[m]}\\right|^{2} \\mathrm{~d} t\\right]\n$$\n\n$\\left(\\hat{\\xi}^{[n]}\\right)_{n}$ is Cauchy in $\\mathbb{H}^{2}$, thus converging to a process $\\hat{\\xi} \\in \\mathbb{H}_{\\xi}^{2}$, i.e.,\n\n$$\n\\"
+      },
+      {
+        "chunk_index": 17698,
+        "title": "Broker-Trader Partial Information Nash-Equilibria",
+        "text_preview": "# Broker-Trader Partial Information Nash Equilibria \n\n$$\n\\begin{aligned}\n& =\\mathbb{E}\\left[\\int_{0}^{T} \\int_{t}^{T}\\left(\\left(\\nu_{s}-\\zeta_{s}\\right)^{\\top}(2 \\phi-h)\\left(\\nu_{t}-\\zeta_{t}\\right)\\right)^{\\top} \\mathrm{d} s \\mathrm{~d} t\\right] \\\\\n& =\\mathbb{E}\\left[\\int_{0}^{T} \\int_{t}^{T}\\lef"
+      },
+      {
+        "chunk_index": 17722,
+        "title": "Broker-Trader Partial Information Nash-Equilibria",
+        "text_preview": "# Broker-Trader Partial Information Nash Equilibria \n\nTo gain some intuition of the these solutions, let us set the initial inventory levels to zero, i.e., $q^{I}=q^{B}=0$, the initial transient impact to zero, i.e., $y=0$, and the running penalty to zero, i.e., $r^{B}=r^{I}=0$. In this setting, the"
+      }
+    ]
+  },
+  {
+    "cluster_id": 67,
+    "n_chunks": 54,
+    "representative_chunks": [
+      {
+        "chunk_index": 2687,
+        "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+        "text_preview": "#### Abstract\n\nRare diseases are collectively common, affecting approximately one in twenty individuals worldwide. In recent years, rapid progress has been made in rare disease diagnostics due to advances in DNA sequencing, development of new computational and experimental approaches to prioritize g"
+      },
+      {
+        "chunk_index": 2714,
+        "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+        "text_preview": "## Writing Group\n\nMoez Dawood, Ben Heavner, Marsha Wheeler, Rachel A. Ungar, Jonathan LoTempio, Laurens Wiel, Claudia M. B. Carvalho, Casey A. Gifford, Susanne May, Danny E. Miller, Heidi L. Rehm, Fritz J. Sedlazeck, Eric Vilain, Anne O'Donnell-Luria, Jennifer E. Posey, Lisa H. Chadwick, Michael J. "
+      },
+      {
+        "chunk_index": 2712,
+        "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+        "text_preview": "## GREGoR Partner Members\n\nAashish Adhikari, Kinga Bujakowska, Claudia M. B. Carvalho, Ali Crawford, Aim\u00e9e M. Dudley, Kelly Hagman, Yang I. Li, Jill Moore, Aaron R. Quinlan, Alex Wagner, Bo Xia, S. Stephen Yi"
+      }
+    ]
+  },
+  {
+    "cluster_id": 68,
+    "n_chunks": 73,
+    "representative_chunks": [
+      {
+        "chunk_index": 6344,
+        "title": "Robust Intervention in Networks",
+        "text_preview": "## Proof of Proposition 3\n\nProof. We first find a closed-form solution of $\\mathbf{x}^{*}$ with the parametric assumptions. Then, we calculate the threshold $\\bar{v}$. Under the assumption of the parameters, we have\n\n$$\n\\mathbf{M}=2\\left[\\begin{array}{cc}\nm^{2} & m \\\\\nm & 1\n\\end{array}\\right] \\quad "
+      },
+      {
+        "chunk_index": 6340,
+        "title": "Robust Intervention in Networks",
+        "text_preview": "# A Proofs\n## Proof of Theorem 1\n\nProof. We first prove the duality (5) in Theorem 1. To this end, we introduce the following non-compact minimax theorem (Ha, 1981):\n\nTheorem 4 Let $X, Y$ be nonempty convex sets, each in a Hausdorff topological vector space, and let $f$ be a real-valued function def"
+      },
+      {
+        "chunk_index": 6346,
+        "title": "Robust Intervention in Networks",
+        "text_preview": "# Proof of Proposition 4 \n\nProof. For simplicity, we prove the proposition by assuming that the mean influence of the link $\\mathbf{G}_{i j}$ is zero for all $i, j \\in N$. Then, we provide a general proof without the assumption.\n\nFor each $i \\in N$, we find that\n\n$$\n\\begin{aligned}\n& \\left|\\left(\\ma"
+      }
+    ]
+  },
+  {
+    "cluster_id": 71,
+    "n_chunks": 246,
+    "representative_chunks": [
+      {
+        "chunk_index": 17359,
+        "title": "CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding &\n  Reasoning Capabilities of CodeLLMs",
+        "text_preview": "#### Abstract\n\nRecent advances in Code Large Language Models (CodeLLMs) have primarily focused on open-ended code generation, often overlooking the crucial aspect of code understanding \\& reasoning. To bridge this gap, we introduce CodeMMLU, a comprehensive multiple-choice benchmark designed to eval"
+      },
+      {
+        "chunk_index": 17386,
+        "title": "CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding &\n  Reasoning Capabilities of CodeLLMs",
+        "text_preview": "## C MODELS SETUP\n\nIn our experiment and study, we consider GPT-4o (OpenAI et al., 2024), GPT-3.5 (OpenAI, 2023), Claude-3.5, Claude-3 (Anthropic, 2024), MetaLlama 3.1 (Dubey et al., 2024), MetaLlama3 (Dubey et al., 2024), CodeLLaMA (Rozi\u00e8re et al., 2024), DeepSeek AI, DeepSeek Coder, DeepSeek Coder"
+      },
+      {
+        "chunk_index": 17367,
+        "title": "CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding &\n  Reasoning Capabilities of CodeLLMs",
+        "text_preview": "# 4.2 KEY INSIGHTS \n\nOverall performance CodeMMLU revealed significant performance differences across models, as shown in Table 3. OpenAI's GPT-4o outperformed all models on CodeMMLU, demonstrating its quality across diverse tasks (Figure 1). Notably, despite not being the latest model, the instruct"
+      }
+    ]
+  },
+  {
+    "cluster_id": 72,
+    "n_chunks": 60,
+    "representative_chunks": [
+      {
+        "chunk_index": 15182,
+        "title": "Evidence of Dark Energy Prior to its Discovery",
+        "text_preview": "## Roukema and Yoshii (1993)\n\nRoukema and Yoshii extracted galaxy merger history trees from N-body simulations of galaxy\n\nmergers to compute the effect of merging on the galaxy angular two-point autocorrelation function including luminosities. ${ }^{76}$ They initially adopted a flat model of the Un"
+      },
+      {
+        "chunk_index": 15193,
+        "title": "Evidence of Dark Energy Prior to its Discovery",
+        "text_preview": "## DATA AVAILABILITY\n\nThis paper contains no new data. The statistical analysis is based on existing, published data."
+      },
+      {
+        "chunk_index": 15173,
+        "title": "Evidence of Dark Energy Prior to its Discovery",
+        "text_preview": "# The Mass Density of the Universe, $\\Omega_{\\mathrm{M}}$ \n\nBy 1995, measurements of the Universe's total mass density, including both normal and dark matter within galaxies, the halos of dark matter surrounding them, and the hot, X-ray-emitting gas between the galaxies, had been conducted. Orbital "
+      }
+    ]
+  },
+  {
+    "cluster_id": 73,
+    "n_chunks": 54,
+    "representative_chunks": [
+      {
+        "chunk_index": 8358,
+        "title": "Proteome-wide prediction of mode of inheritance and molecular mechanism\n  underlying genetic diseases using structural interactomics",
+        "text_preview": "# Proteome-wide inference \n\nMOI prediction for all autosomal proteins Of the 17,248 nodes in the PPI network, 16,477 ( $96 \\%$ ) were autosomal, and we used the GAT model to predict the most likely MOI for all of them. A total of 8,869 (54\\%) were predicted to be AR, 6,277 (38\\%) were predicted to b"
+      },
+      {
+        "chunk_index": 8369,
+        "title": "Proteome-wide prediction of mode of inheritance and molecular mechanism\n  underlying genetic diseases using structural interactomics",
+        "text_preview": "# STAR METHODS\n## Data collection\n\nMode of inheritance We collected the MOI data from the Gene Curation Coalition (GenCC) ${ }^{49}$ as well as the Online Mendelian Inheritance in Man (OMIM) ${ }^{50}$. For GenCC records, we kept records with definitive, strong, or moderate gene-disease clinical val"
+      },
+      {
+        "chunk_index": 8360,
+        "title": "Proteome-wide prediction of mode of inheritance and molecular mechanism\n  underlying genetic diseases using structural interactomics",
+        "text_preview": "# RESOURCE AVAILABILITY\n## Lead contact\n\nRequests for further information and resources should be directed to and will be fulfilled by the lead contact, Jacques Fellay (jacques.fellay@epfl.ch)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 76,
+    "n_chunks": 102,
+    "representative_chunks": [
+      {
+        "chunk_index": 2324,
+        "title": "Out-of-distribution robustness for multivariate analysis via causal\n  regularisation",
+        "text_preview": "# D. 2 Hyperparameters Selection Experiment \n\nThe results of the toy model experiments in the high-dimensional setting are obtained as follows. The training data are sampled following the DAG\n\n$$\n\\begin{aligned}\n\\varepsilon_{A}, \\varepsilon_{H}, \\varepsilon_{X}, \\varepsilon_{Y} & \\sim \\mathcal{N}(0,"
+      },
+      {
+        "chunk_index": 2306,
+        "title": "Out-of-distribution robustness for multivariate analysis via causal\n  regularisation",
+        "text_preview": "# 3 ROBUSTNESS THROUGH ANCHOR REGULARISATION \n\nBuilding on the aforementioned idea, we demonstrate that anchor regularisation can be efficiently applied to a broad class of linear algorithms, including several classical MVA algorithms. This approach ensures distributional robustness for algorithms w"
+      },
+      {
+        "chunk_index": 2312,
+        "title": "Out-of-distribution robustness for multivariate analysis via causal\n  regularisation",
+        "text_preview": "### 6.1 Simulation Experiments\n\nTo demonstrate how anchor regularisation can be applied with different multivariate analysis algorithms, we adapt the experiments from Rothenh\u00e4usler et al. (2018) to a multioutput setting. In particular, we assume that the training data $(A, X, Y)$ follows a distribut"
+      }
+    ]
+  },
+  {
+    "cluster_id": 78,
+    "n_chunks": 65,
+    "representative_chunks": [
+      {
+        "chunk_index": 922,
+        "title": "On-Chain Credit Risk Score in Decentralized Finance",
+        "text_preview": "## Variance of the OCCR Score\n# On-Chain Credit Risk Score in Decentralized Finance \n\nAssuming that the subscores are estimated independently, the variance of the OCCR Score is the sum of the variances of the weighted components:\n\n$$\n\\begin{aligned}\n\\operatorname{Var}(\\text { OCCR Score })= & (0.35)"
+      },
+      {
+        "chunk_index": 871,
+        "title": "On-Chain Credit Risk Score in Decentralized Finance",
+        "text_preview": "### 3.6 OCCR Score\n\nThe OCCR Score for the particular wallet is found using a weighted average of all the above credit risk subscores obtained. The weight associated to each of the subscores is $0.35,0.25,0.15,0.15,0.10$ to $\\hat{s}_{h_{i}}, \\hat{s}_{c_{i}}, \\hat{s}_{c u_{i}}, \\hat{s}_{c t_{i}}$ and"
+      },
+      {
+        "chunk_index": 864,
+        "title": "On-Chain Credit Risk Score in Decentralized Finance",
+        "text_preview": "## 3 On-Chain Credit Risk (OCCR) Score\n### 3.1 Historical Credit Risk subscore $\\left(\\hat{s}_{h_{i}}\\right)$\n\nIn this section, we will dive into analyzing the historical data for each wallet $i . X_{i, j}$ is a dichotomous random variable, defined as\n\n$$\nX_{i, j}= \\begin{cases}1 & \\text { if loan/p"
+      }
+    ]
+  },
+  {
+    "cluster_id": 79,
+    "n_chunks": 56,
+    "representative_chunks": [
+      {
+        "chunk_index": 8662,
+        "title": "Identification by non-Gaussianity in structural threshold and smooth\n  transition vector autoregressive models",
+        "text_preview": "### 5.2 The structural LSTVAR model\n\nIn order to specify the structural STVAR model (3.2)-(3.3), the transition weights and the distributions of the structural shocks must be specified. We employ the logistic transition weights with two regimes (Anderson and Vahid, 1998) given in Equation (2.4). The"
+      },
+      {
+        "chunk_index": 1253,
+        "title": "Identification by non-Gaussianity in structural threshold and smooth\n  transition vector autoregressive models",
+        "text_preview": "# 5.2 The structural LSTVAR model \n\nIn order to specify the structural STVAR model (3.2)-(3.3), the transition weights and the distributions of the structural shocks must be specified. We employ the logistic transition weights with two regimes (Anderson and Vahid, 1998) given in Equation (2.4). They"
+      },
+      {
+        "chunk_index": 8649,
+        "title": "Identification by non-Gaussianity in structural threshold and smooth\n  transition vector autoregressive models",
+        "text_preview": "#### Abstract\n\nLinear structural vector autoregressive models can be identified statistically without imposing restrictions on the model if the shocks are mutually independent and at most one of them is Gaussian. We show that this result extends to structural threshold and smooth transition vector a"
+      }
+    ]
+  },
+  {
+    "cluster_id": 80,
+    "n_chunks": 83,
+    "representative_chunks": [
+      {
+        "chunk_index": 17164,
+        "title": "NIRVAR: Network Informed Restricted Vector Autoregression",
+        "text_preview": "# Supplementary references \n\nBarigozzi, M., Cho, H., and Owens, D. (2023) FNETS: Factor-adjusted network estimation and forecasting for high-dimensional time series. Journal of Business \\& Economic Statistics, 1-13.\n\nFan, J., Masini, R. P., and Medeiros, M. C. (2023) Bridging factor and sparse model"
+      },
+      {
+        "chunk_index": 17142,
+        "title": "NIRVAR: Network Informed Restricted Vector Autoregression",
+        "text_preview": "### 5.4 Latent position recovery\n\nWe conduct a study in which we fix two ground truth latent positions $\\boldsymbol{\\theta}_{B 1}=(0.05,0.95)^{\\prime}$ and $\\boldsymbol{\\theta}_{B 2}=(0.95,0.05)^{\\prime}$ of the data generating SBM and compare the (rotated) NIRVAR embedded points $\\hat{\\Psi}^{(1)}$ "
+      },
+      {
+        "chunk_index": 17141,
+        "title": "NIRVAR: Network Informed Restricted Vector Autoregression",
+        "text_preview": "### 5.3 Large sample distribution of the NIRVAR estimator\n\nWe simulate data with $N=50, Q=1, T=5000, K=5$, and set $\\hat{\\Phi}^{(1)}$ by sampling each entry from a Uniform $(0,1)$ and normalising so that $\\rho\\left(\\Phi^{(1)}\\right)=0.9$. The probability of an edge forming within each block was set "
+      }
+    ]
+  },
+  {
+    "cluster_id": 81,
+    "n_chunks": 65,
+    "representative_chunks": [
+      {
+        "chunk_index": 7259,
+        "title": "Exploiting Spatial and Temporal Correlations in Massive MIMO Systems\n  Over Non-Stationary Aging Channels",
+        "text_preview": "## APPENDIX B\n## Proof of Theorem 1\n\nBased on the received measurements at data time slots, the BS employs the optimal MMSE receiver to estimate the transmitted data symbol of the tagged user at time slot $i$, i.e., $\\widehat{s}_{1}(i)=\\mathbf{g}_{1}^{H}(i) \\mathbf{y}_{d}$. Given the channel estimat"
+      },
+      {
+        "chunk_index": 7256,
+        "title": "Exploiting Spatial and Temporal Correlations in Massive MIMO Systems\n  Over Non-Stationary Aging Channels",
+        "text_preview": "## IV. NUMERICAL RESULTS\n\nIn this section, we present numerical experiments to evaluate the performance of the proposed method and compare its effectiveness with several alternative bounds and methods. The analysis focuses on the tightness of these bounds with respect to the expected SE.\n\nExperiment"
+      },
+      {
+        "chunk_index": 7255,
+        "title": "Exploiting Spatial and Temporal Correlations in Massive MIMO Systems\n  Over Non-Stationary Aging Channels",
+        "text_preview": "## D. SINR and SE Calculations\n\nIn this subsection, we will calculate the instantaneous SINR based on channel and data estimates provided in Sections III-B and III-C. The following theorem calculates the instantaneous SINR for the tagged user.\n\nTheorem 1. Given the channel estimate $\\widehat{\\mathbf"
+      }
+    ]
+  },
+  {
+    "cluster_id": 82,
+    "n_chunks": 123,
+    "representative_chunks": [
+      {
+        "chunk_index": 11852,
+        "title": "Enhanced Multi-Target Tracking in Dynamic Environments: Distributed\n  Flooding Control in the Random Finite Set Framework",
+        "text_preview": "## II. RELATED WORK\n\nIn the RFS framework, various solutions have been developed for multi-target tracking-related problems. Some examples include track-before-detect visual tracking applications [30], sensor management in target tracking applications [27], [31], and information fusion [32]. Several"
+      },
+      {
+        "chunk_index": 11862,
+        "title": "Enhanced Multi-Target Tracking in Dynamic Environments: Distributed\n  Flooding Control in the Random Finite Set Framework",
+        "text_preview": "## D. Objective Function\n\nThe pseudo-posterior densities and their fused density are clearly dependent on the pseudo-measurements which are themselves dependent on the selected control commands, $\\mathbf{u}_{s}=\\left\\{\\mathbf{u}_{s^{\\prime}}\\right\\}_{s^{\\prime} \\in N^{(s)} \\cup\\{s\\}}$. The fused pse"
+      },
+      {
+        "chunk_index": 11868,
+        "title": "Enhanced Multi-Target Tracking in Dynamic Environments: Distributed\n  Flooding Control in the Random Finite Set Framework",
+        "text_preview": "## D. Discussion\n\nAs discussed previously, the main source of multi-object tracking error in a scenario with a large number of mobile, dynamic targets, is the targets not being observed by any of the sensors, i.e. cardinality error. For the first scenario, Figure 10 shows how when the sensors are fi"
+      }
+    ]
+  },
+  {
+    "cluster_id": 83,
+    "n_chunks": 56,
+    "representative_chunks": [
+      {
+        "chunk_index": 7328,
+        "title": "Meritocracy and Its Discontents: Long-run Effects of Repeated School\n  Admission Reforms",
+        "text_preview": "### 3.3 Strategic Responses by Applicants\n\nAs an immediate effect, switching back and forth between the centralized and the decentralized admission systems causes stark strategic responses in application behavior. Figure 1a shows that the three periods of centralization are associated with sharp inc"
+      },
+      {
+        "chunk_index": 7326,
+        "title": "Meritocracy and Its Discontents: Long-run Effects of Repeated School\n  Admission Reforms",
+        "text_preview": "# 3 Short-run Impacts\n### 3.1 Predicted Impacts\n\nMotivated by the above historical observations, we first make predictions on the short-run effects of centralization. (In Supplementary Materials Section A, we formally derive the following predictions using a simple model.)\n\nFirst, we predict changes"
+      },
+      {
+        "chunk_index": 7331,
+        "title": "Meritocracy and Its Discontents: Long-run Effects of Repeated School\n  Admission Reforms",
+        "text_preview": "# 3.6 Other Institutional Changes \n\nWe finish the short-run analysis by discussing potential threats. In particular, if changes in other institutional and policy factors were correlated with the admission reforms, it could influence application behavior and enrollment outcomes, explaining our findin"
+      }
+    ]
+  },
+  {
+    "cluster_id": 84,
+    "n_chunks": 91,
+    "representative_chunks": [
+      {
+        "chunk_index": 5831,
+        "title": "Quantifying the Internal Validity of Weighted Estimands",
+        "text_preview": "#### Abstract\n\nIn this paper we study a class of weighted estimands, which we define as parameters that can be expressed as weighted averages of the underlying heterogeneous treatment effects. The popular ordinary least squares (OLS), two-stage least squares (2SLS), and two-way fixed effects (TWFE) "
+      },
+      {
+        "chunk_index": 5835,
+        "title": "Quantifying the Internal Validity of Weighted Estimands",
+        "text_preview": "# 2 Motivating Example \n\nHere we provide a more detailed discussion of the OLS estimand, which is our initial theoretical example. We postpone the discussion of the 2SLS and TWFE estimands to Section 5. In the initial example, we have a binary treatment $D \\in\\{0,1\\}$, potential outcomes $(Y(1), Y(0"
+      },
+      {
+        "chunk_index": 5860,
+        "title": "Quantifying the Internal Validity of Weighted Estimands",
+        "text_preview": "# References \n\nAndrews, I., J. Roth, and A. Pakes (2023): \"Inference for Linear Conditional Moment Inequalities,\" Review of Economic Studies, 90(6), 2763-2791.\n\nAngrist, J. D. (1998): \"Estimating the Labor Market Impact of Voluntary Military Service Using Social Security Data on Military Applicants,"
+      }
+    ]
+  },
+  {
+    "cluster_id": 86,
+    "n_chunks": 143,
+    "representative_chunks": [
+      {
+        "chunk_index": 15475,
+        "title": "AutoStep: Locally adaptive involutive MCMC",
+        "text_preview": "# B. Additional Experimental Details and Results\n## B.1. Synthetic and real data models\n\nWe present the synthetic and real data models used in Section 5. In the following, $\\mathcal{N}\\left(\\mu, \\sigma^{2}\\right)$ represents a normal distribution with mean $\\mu$ and variance $\\sigma^{2}$. We use $\\m"
+      },
+      {
+        "chunk_index": 15455,
+        "title": "AutoStep: Locally adaptive involutive MCMC",
+        "text_preview": "## 1. Introduction\n\nMarkov chain Monte Carlo (MCMC) (Metropolis et al., 1953; Hastings, 1970) is an effective tool for approximating integrals arising in Bayesian inference problems. The performance of MCMC is often sensitive to the choice of tuning parameters in the Markov kernel. In particular, me"
+      },
+      {
+        "chunk_index": 15457,
+        "title": "AutoStep: Locally adaptive involutive MCMC",
+        "text_preview": "## 3. AutoStep MCMC\n\nIn this section, we develop AutoStep MCMC, a family of modified involutive MCMC methods that automatically select appropriate tuning parameter values at each iteration. The key technique in developing AutoStep MCMC is to formulate the sampler on an augmented space that includes "
+      }
+    ]
+  },
+  {
+    "cluster_id": 87,
+    "n_chunks": 61,
+    "representative_chunks": [
+      {
+        "chunk_index": 4765,
+        "title": "Three-dimensional varying-order NURBS discretization method for enhanced\n  IGA of large deformation frictional contact problems",
+        "text_preview": "### 4.4.1 Frictionless Twisting\n\nThe setup of the problem, which involves a hollow hemisphere having an outer radius $L / 2 \\mathrm{~mm}$ and an inner radius $L / 3 \\mathrm{~mm}$, and a cube of size $[L \\times L \\times L]$, where $L=2$ mm is shown in Fig. 15a. In this benchmark problem, the hemisphe"
+      },
+      {
+        "chunk_index": 4762,
+        "title": "Three-dimensional varying-order NURBS discretization method for enhanced\n  IGA of large deformation frictional contact problems",
+        "text_preview": "# 4.3.2 Performance at a fixed mesh \n\nFirst, we show the performance of the proposed method at the coarsest mesh level $\\mathrm{m}_{1}$ for the considered example. Figure 11 illustrates the evolution of the total normal and frictional contact forces, computed at the top surface of the indentor as a "
+      },
+      {
+        "chunk_index": 4761,
+        "title": "Three-dimensional varying-order NURBS discretization method for enhanced\n  IGA of large deformation frictional contact problems",
+        "text_preview": "# 4.3 Frictional Ironing with finite deformations\n### 4.3.1 Setup\n\nThis example considers a 3D frictional sliding contact between an indentor-slab pair undergoing large deformations. The setup of the problem, which is adapted from Temizer et al. [58], is shown in Fig. 9. We simulate this example in "
+      }
+    ]
+  },
+  {
+    "cluster_id": 89,
+    "n_chunks": 77,
+    "representative_chunks": [
+      {
+        "chunk_index": 13387,
+        "title": "Time is Knowledge: What Response Times Reveal",
+        "text_preview": "#### Abstract\n\nResponse times contain information about economically relevant but unobserved variables like willingness to pay, preference intensity, quality, or happiness. Here, we provide a general characterization of the properties of latent variables that can be detected using response time data"
+      },
+      {
+        "chunk_index": 13397,
+        "title": "Time is Knowledge: What Response Times Reveal",
+        "text_preview": "# 3 Theoretical Applications \n\nIn this section, we apply Theorem 1 to study distributional properties that have been of interest in diverse applications. We replicate and generalize existing results from the literature and present many new results. We first consider properties of single distribution"
+      },
+      {
+        "chunk_index": 13396,
+        "title": "Time is Knowledge: What Response Times Reveal",
+        "text_preview": "# 2.5.3 Heterogeneity and Noise \n\nBefore applying our method to data, it is natural to ask about heterogeneity in response speed and about noise or measurement error. Al\u00f3s-Ferrer, Fehr and Netzer (2021) and Liu and Netzer (2023) have shown that several of their results have appropriate extensions th"
+      }
+    ]
+  },
+  {
+    "cluster_id": 90,
+    "n_chunks": 109,
+    "representative_chunks": [
+      {
+        "chunk_index": 5077,
+        "title": "On the Asymptotic Properties of Debiased Machine Learning Estimators",
+        "text_preview": "# DML1 \n\nThe estimator based on DML1 first calculates preliminary estimators $\\tilde{\\theta}_{k}$ by solving the moment condition (1.1) within each fold $\\mathcal{I}_{k}$ using the estimates $\\hat{\\eta}_{i}$,\n\n$$\n\\tilde{\\theta}_{k} \\quad \\text { solve } \\quad n_{k}^{-1} \\sum_{i \\in \\mathcal{I}_{k}} "
+      },
+      {
+        "chunk_index": 5095,
+        "title": "On the Asymptotic Properties of Debiased Machine Learning Estimators",
+        "text_preview": "## References\n\nAhrens, A., C. B. Hansen, M. E. Schaffer, and T. Wiemann (2024a): \"ddml: Double/debiased machine learning in Stata,\" The Stata Journal, 24, 3-45.\n\n(2024b): \"Model averaging and double machine learning,\" arXiv preprint arXiv:2401.01645.\n\nAndrews, D. W. (1994): \"Asymptotics for semipara"
+      },
+      {
+        "chunk_index": 5079,
+        "title": "On the Asymptotic Properties of Debiased Machine Learning Estimators",
+        "text_preview": "# Previous Results \n\nUnder some conditions (including $K$ fixed as $n \\rightarrow \\infty$ ), Chernozhukov et al. (2018) showed that both DML estimators $\\hat{\\theta}_{n, 1}$ and $\\hat{\\theta}_{n, 2}$ have the same asymptotic distribution,\n\n$$\n\\sqrt{n}\\left(\\hat{\\theta}_{n, j}-\\theta_{0}\\right) \\xrig"
+      }
+    ]
+  },
+  {
+    "cluster_id": 93,
+    "n_chunks": 108,
+    "representative_chunks": [
+      {
+        "chunk_index": 3449,
+        "title": "It Takes Three to Ceilidh: Pension System and Multidimensional Poverty\n  Mitigation in China",
+        "text_preview": "# 5.3 Endogeneity Checks \n\nCertain concerns might weaken the argument rooted in baseline identification from (1) to (4). First, MP may in turn affect the extent of participation in the TPPS. Given the voluntary nature of the second and third pillars in the TPPS, participation could be an endogenous "
+      },
+      {
+        "chunk_index": 3440,
+        "title": "It Takes Three to Ceilidh: Pension System and Multidimensional Poverty\n  Mitigation in China",
+        "text_preview": "### 3.1 Model\n\nWithout TPPS. Assume that individuals live for two distinct periods\u2014younger and older. In period $t_{s}$, a younger individual $i$ denoted by subscript 1 allocates the income $W_{i t}$ between expenditure $E_{i 1 t}$ and savings $S_{i t}$. In period $t$, an older individual $j$ expens"
+      },
+      {
+        "chunk_index": 3448,
+        "title": "It Takes Three to Ceilidh: Pension System and Multidimensional Poverty\n  Mitigation in China",
+        "text_preview": "# 5.2 Baseline Regressions \n\nTable 6 reports the baseline regressions. The response variable in the Table 6 is IFMP. The explanatory variable in Columns (1) is $S$ (TPPS), and those in (2), (3), (4) and (5) are TPPS_1, TPPS_2, and TPPS_3 respectively and all. Columns (2), (3), and (4) examine the in"
+      }
+    ]
+  },
+  {
+    "cluster_id": 95,
+    "n_chunks": 65,
+    "representative_chunks": [
+      {
+        "chunk_index": 5937,
+        "title": "The Transmission of Monetary Policy via Common Cycles in the Euro Area",
+        "text_preview": "# Alternative Lag Orders in the SVAR \n\nIn this alternative model specification, we set $L=3$ (Figures OA. 26 and OA.27) and $L=12$ (Figures OA. 28 and OA.29).\n![img-33.jpeg](img-33.jpeg)\n\nFigure OA.26: Median impulse responses to an expansionary monetary policy shock. The solid black line depicts th"
+      },
+      {
+        "chunk_index": 5936,
+        "title": "The Transmission of Monetary Policy via Common Cycles in the Euro Area",
+        "text_preview": "# Alternative Lag Orders in the DFM \n\nIn this alternative model specification, we extend the factor equation (3) by including lags of the factors and of the variables $\\boldsymbol{z}_{t}$ :\n\n$$\n\\begin{aligned}\nx_{i, t}^{O U T} & =\\sum_{p=0}^{P} \\lambda_{i, p}^{O U T} f_{t-p}^{O U T}+\\sum_{p=0}^{P} \\"
+      },
+      {
+        "chunk_index": 5922,
+        "title": "The Transmission of Monetary Policy via Common Cycles in the Euro Area",
+        "text_preview": "# Appendix A Additional Figures \n\n![img-6.jpeg](img-6.jpeg)\n\nFigure A.1: Residual stochastic volatilities of output growth. The solid black line depicts the median and the shaded blue area the $68 \\%$ credible bands.\n![img-7.jpeg](img-7.jpeg)\n\nFigure A.2: Residual stochastic volatilities of inflatio"
+      }
+    ]
+  },
+  {
+    "cluster_id": 96,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 6996,
+        "title": "Probabilistic Targeted Factor Analysis",
+        "text_preview": "# 5.3 Targeted Financial Conditions Indices \n\nFinancial conditions indices (FCIs) offer a single, quantitative measure summarizing the state of financial conditions in the economy by combining information from a wide range of financial variables - such as credit spreads, asset prices, liquidity meas"
+      },
+      {
+        "chunk_index": 6997,
+        "title": "Probabilistic Targeted Factor Analysis",
+        "text_preview": "# Table 3: Financial variables that proxy financial conditions \n\nNotes: Mnemonic refers to the statistical reference with which the time series can be fetched from the source. Sample Start date refers to the first observation for a specific time-series in our sample. t-code refers to transformation "
+      },
+      {
+        "chunk_index": 6995,
+        "title": "Probabilistic Targeted Factor Analysis",
+        "text_preview": "# 5.2 Predicting the Equity Premium \n\nAttempts to predict stock returns or the equity premium are in no short supply in the Finance literature. Welch and Goyal (2007) and Goyal et al. (2024), provide a review and comprehensive assessment of the performance of 46 different variables that have been su"
+      }
+    ]
+  },
+  {
+    "cluster_id": 97,
+    "n_chunks": 64,
+    "representative_chunks": [
+      {
+        "chunk_index": 12710,
+        "title": "Regular Languages in the Sliding Window Model",
+        "text_preview": "# 3.4 Proof of Theorem 3.2(1) \n\nUsing the path summary algorithm we can prove Theorem 3.2(1):\nPROPOSITION 3.6. If $\\mathcal{B}$ is well-behaved then the regular language $L=\\mathrm{L}(\\mathcal{B})$ has space complexity $\\mathrm{V}_{L}(n)=O\\left(|\\mathcal{B}|^{2} \\cdot \\log n\\right)$, which is $O(\\lo"
+      },
+      {
+        "chunk_index": 12712,
+        "title": "Regular Languages in the Sliding Window Model",
+        "text_preview": "# 3.6 Proof of Theorem 3.2(3)-(6) \n\nNext, we study which regular languages have sublogarithmic complexity. Recall that in the variable-size model any such language must be empty or universal because the algorithm must at least maintain the current window size by Lemma 2.5.\n\nCOROLLARY 3.11. The empty"
+      },
+      {
+        "chunk_index": 12730,
+        "title": "Regular Languages in the Sliding Window Model",
+        "text_preview": "# 5.4 Lower bounds \n\nIn this section we prove our lower bounds. In Section 5.4.1 we will prove Theorem 5.5 and Theorem 5.8. Theorem 5.6 and Theorem 5.7 will be shown in Section 5.4.2."
+      }
+    ]
+  },
+  {
+    "cluster_id": 98,
+    "n_chunks": 212,
+    "representative_chunks": [
+      {
+        "chunk_index": 15770,
+        "title": "Mean-Variance Optimization for Participating Life Insurance Contracts",
+        "text_preview": "# 2.2 Optimization Functional \n\nBefore defining the optimization functional, let us introduce the basic financial market, which in Section 3 and 4 will become the Black-Scholes model.\nLet $(\\Omega, \\mathcal{F},(\\mathcal{F})_{t \\in[0, T]}, \\mathbb{P})$ be a filtered probability space with time horizo"
+      },
+      {
+        "chunk_index": 15771,
+        "title": "Mean-Variance Optimization for Participating Life Insurance Contracts",
+        "text_preview": "# 3 Optimization in a Black-Scholes market \n\nThis section assumes that the underlying financial market follows the Black-Scholes model, i.e., the market is complete. Then, the price dynamics for the $d$ risky assets $S^{i}, i \\in\\{1, \\ldots, d\\}$ are given by\n\n$$\n\\mathrm{d} S_{t}^{i}=S_{t}^{i} \\mu_{"
+      },
+      {
+        "chunk_index": 15777,
+        "title": "Mean-Variance Optimization for Participating Life Insurance Contracts",
+        "text_preview": "# Appendix\n## A Proofs\n\nProof of Lemma 3.1. We show this lemma by contradiction. In particular, we assume that a $\\hat{u}$ exists, which is an optimal solution for $J$, but not for $\\tilde{J}$. Consequently, there exists a strategy $u$ which is better than $\\hat{u}$ for $\\tilde{J}$, i.e.,\n\n$$\n\\begin"
+      }
+    ]
+  },
+  {
+    "cluster_id": 99,
+    "n_chunks": 61,
+    "representative_chunks": [
+      {
+        "chunk_index": 4698,
+        "title": "Bayesian Deep Generative Models for Multiplex Networks with Multiscale\n  Overlapping Clusters",
+        "text_preview": "# H Simulation Study \n\nIn this section, we numerically evaluate our model consistency and posterior computation approaches through a simulated example. We present the main results in Section H. 1 and additional results with discussions in Section H. 2 ."
+      },
+      {
+        "chunk_index": 4646,
+        "title": "Bayesian Deep Generative Models for Multiplex Networks with Multiscale\n  Overlapping Clusters",
+        "text_preview": "## 1 Introduction\n\nIn recent decades, the study of network data has been a popular topic in the statistics literature. An undirected network with $p$ nodes is commonly represented by a symmetric binary matrix $\\mathbf{X}$, where $X_{i, j}=1$ signifies the existence of an edge between the nodes $i$ a"
+      },
+      {
+        "chunk_index": 4657,
+        "title": "Bayesian Deep Generative Models for Multiplex Networks with Multiscale\n  Overlapping Clusters",
+        "text_preview": "# Supplementary Material \n\nThe Supplementary Material contains more related literature, model illustrations, the proofs for all theorems and propositions, additional discussions of prior distributions, the details of MCMC samplers and spectral initialization algorithm, simulation studies, and deferr"
+      }
+    ]
+  },
+  {
+    "cluster_id": 100,
+    "n_chunks": 54,
+    "representative_chunks": [
+      {
+        "chunk_index": 18595,
+        "title": "Pontryagin-Guided Policy Optimization for Merton's Portfolio Problem",
+        "text_preview": "# 8 Conclusion \n\nWe have proposed a PG-DPO framework for Merton's portfolio problem (Section 5), combining neural-network'based gradient methods with the adjoint perspective from PMP. By parametrizing both consumption and investment policies within neural networks and aligning each gradient step to "
+      },
+      {
+        "chunk_index": 18568,
+        "title": "Pontryagin-Guided Policy Optimization for Merton's Portfolio Problem",
+        "text_preview": "# 2 Continuous-Time Formulation of the Merton Portfolio Problem \n\nWe focus on Merton's portfolio optimization problem, in which an investor allocates wealth between a risky asset $S_{t}$ and a risk-free asset $B_{t}$. The risky asset follows a geometric Brownian motion:\n\n$$\nd S_{t}=\\mu S_{t} d t+\\si"
+      },
+      {
+        "chunk_index": 18566,
+        "title": "Pontryagin-Guided Policy Optimization for Merton's Portfolio Problem",
+        "text_preview": "#### Abstract\n\nWe present a Pontryagin-Guided Direct Policy Optimization (PG-DPO) framework for Merton's portfolio problem, unifying modern neural-networkbased policy parameterization with the adjoint viewpoint from Pontryagin's maximum principle (PMP). Instead of approximating the value function (a"
+      }
+    ]
+  },
+  {
+    "cluster_id": 101,
+    "n_chunks": 63,
+    "representative_chunks": [
+      {
+        "chunk_index": 14895,
+        "title": "European Option Pricing in Regime Switching Framework via\n  Physics-Informed Residual Learning",
+        "text_preview": "# 5 Numerical Results \n\nThis subsection describes the numerical results obtained with the selected PIRL networks for BSM and Heston stochastic volatility with regime-switching cases. The results are generated on a fixed set of parameters of the models. To compare the option prices obtained by our me"
+      },
+      {
+        "chunk_index": 14892,
+        "title": "European Option Pricing in Regime Switching Framework via\n  Physics-Informed Residual Learning",
+        "text_preview": "### 4.1 Regime-switching Black-Scholes with PIRL network\n\n![table_0](table_0)\n\nTable 1: Sampling ranges for the parameters for generating the training data for BSM regime-switching model.\n\nSince the BSM model utilises the geometric Brownian motion (GBM) for modelling the asset price, the state vecto"
+      },
+      {
+        "chunk_index": 14898,
+        "title": "European Option Pricing in Regime Switching Framework via\n  Physics-Informed Residual Learning",
+        "text_preview": "# 6 Conclusion \n\nIn this work, two option pricing frameworks are presented utilising the PIRL by augmenting the physical laws of the BSM model and the Heston stochastic volatility model with regimeswitching economic states. Furthermore, the proposed models take advantage of the residual learning fra"
+      }
+    ]
+  },
+  {
+    "cluster_id": 104,
+    "n_chunks": 60,
+    "representative_chunks": [
+      {
+        "chunk_index": 8943,
+        "title": "Gaussian entropic optimal transport: Schr\u00f6dinger bridges and the\n  Sinkhorn algorithm",
+        "text_preview": "## Proof of (5.3)\n\nUsing (4.20) and (4.21) we check that\n\n$$\n\\begin{aligned}\n\\bar{\\sigma}^{-1 / 2} \\beta_{2 n, 0}^{\\circ} \\bar{\\sigma}^{1 / 2} & =\\left(I-v_{2 n}\\right)\\left(I-v_{2(n-1)}\\right) \\ldots\\left(I-v_{2}\\right) \\quad \\text { and } \\\\\n\\sigma^{-1 / 2} \\beta_{2 n+1,1}^{\\circ} \\sigma^{1 / 2} &"
+      },
+      {
+        "chunk_index": 8956,
+        "title": "Gaussian entropic optimal transport: Schr\u00f6dinger bridges and the\n  Sinkhorn algorithm",
+        "text_preview": "## Proof of (6.6) and (6.7)\n\nReturning to the Example 6.4 and using (6.2) we have\n\n$$\n\\begin{aligned}\nc_{\\eta}(y)-c(x, y)= & \\frac{1}{2}\\left\\|\\tau^{-1 / 2} \\beta(x-m)\\right\\|_{F}^{2}+(x-m)^{\\prime} \\beta^{\\prime} \\tau^{-1}(y-(\\alpha+\\beta m))+\\frac{1}{2} \\operatorname{Tr}\\left(\\beta^{\\prime} \\tau^{"
+      },
+      {
+        "chunk_index": 8955,
+        "title": "Gaussian entropic optimal transport: Schr\u00f6dinger bridges and the\n  Sinkhorn algorithm",
+        "text_preview": "# Proof of (6.2) and (6.3) \n\nWe readily check (6.2) using the decomposition\n\n$$\nc(x, y)=\\frac{1}{2}\\left\\|\\tau^{-1 / 2}[(y-(\\alpha+\\beta m))-\\beta(x-m)]\\right\\|_{F}^{2}+\\frac{1}{2} \\log \\operatorname{det}(2 \\pi \\tau)\n$$\n\nIn the same vein, we check (6.3) using the decomposition\n\n$$\nc(x, y)=\\frac{1}{2"
+      }
+    ]
+  },
+  {
+    "cluster_id": 105,
+    "n_chunks": 74,
+    "representative_chunks": [
+      {
+        "chunk_index": 3915,
+        "title": "Non-negative Tensor Mixture Learning for Discrete Density Estimation",
+        "text_preview": "## 1 Introduction\n\nTensors are versatile data structures used in a broad range of fields including signal processing [55], computer vision [46], and data mining [47]. It is an established fact that features can be extracted from tensor-formatted data by low-rank decomposition, which approximates the"
+      },
+      {
+        "chunk_index": 3924,
+        "title": "Non-negative Tensor Mixture Learning for Discrete Density Estimation",
+        "text_preview": "# 5 Numerical Experiments \n\nWe empirically examined the effectiveness of our framework. While the proposed framework can explore a variety of low-rank structures and their mixtures, we here focus on the performance of EMCP, EMTrain, and their mixture EMCPTT, both with and without adaptive noise term"
+      },
+      {
+        "chunk_index": 3940,
+        "title": "Non-negative Tensor Mixture Learning for Discrete Density Estimation",
+        "text_preview": "## C. 4 Limitations\n\nThe proposed framework only works on non-negative tensors. The theoretical analysis supporting the generalization performance of the mixture models remains in future work. While this study discussed low-rank structures with tree structures, such as CP, Tucker, and TT decompositi"
+      }
+    ]
+  },
+  {
+    "cluster_id": 106,
+    "n_chunks": 64,
+    "representative_chunks": [
+      {
+        "chunk_index": 1786,
+        "title": "A Convex Relaxation Approach to Generalization Analysis for Parallel\n  Positively Homogeneous Networks",
+        "text_preview": "# E NUMERICAL EXPERIMENTS \n\n![img-0.jpeg](img-0.jpeg)\n\nFigure 1: Numerical simulations of the Lipschitz constant (or upper bound thereof) obtained for different model widths $(r)$.\n\nIn this section, we present numerical simulations for the problems of low-rank matrix sensing, two-layer ReLU neural n"
+      },
+      {
+        "chunk_index": 1775,
+        "title": "A Convex Relaxation Approach to Generalization Analysis for Parallel\n  Positively Homogeneous Networks",
+        "text_preview": "# C APPLICATIONS \n\nIn this section, we apply our Theorem 4 for various applications. We apply our general theorem to low-rank matrix sensing, structured matrix sensing, two-layer linear neural network, two-layer ReLU neural network, and multi-head attention."
+      },
+      {
+        "chunk_index": 1774,
+        "title": "A Convex Relaxation Approach to Generalization Analysis for Parallel\n  Positively Homogeneous Networks",
+        "text_preview": "# B. 2 Proof of Theorem 2 \n\nThis section discusses the proof of Theorem 4. We extensively use concentration results from Section D that are preliminaries for the upcoming technical details.\n\nProof. First, we recall the definition of generalization error:\n\n$$\n\\text { Generalization Error }:=\\left|\\ma"
+      }
+    ]
+  },
+  {
+    "cluster_id": 107,
+    "n_chunks": 55,
+    "representative_chunks": [
+      {
+        "chunk_index": 1981,
+        "title": "Meta-Dynamical State Space Models for Integrative Neural Data Analysis",
+        "text_preview": "# 6 DISCUSSION \n\nWe present a novel framework for jointly inferring and learning latent dynamics from heterogeneous neural recordings across sessions/subjects during related behavioral tasks. To the best of our knowledge, this is the first approach that facilitates learning a family of dynamical sys"
+      },
+      {
+        "chunk_index": 1974,
+        "title": "Meta-Dynamical State Space Models for Integrative Neural Data Analysis",
+        "text_preview": "### 3.1 Hierarchical State-Space Model for Multiple Datasets\n\nWe introduce a hierarchical structure in the latent dynamical system model to capture variations across datasets and jointly describe the spatiotemporal evolution across $M$ neural recordings in a unified SSM. A natural choice for learnin"
+      },
+      {
+        "chunk_index": 1971,
+        "title": "Meta-Dynamical State Space Models for Integrative Neural Data Analysis",
+        "text_preview": "## 1 INTRODUCTION\n\nLatent variable models are widely used in neuroscience to extract dynamical structure underlying high-dimensional neural activity (Pandarinath et al., 2018; Schimel et al., 2022; Dowling et al., 2024). While latent dynamics provide valuable insights into behavior and generate test"
+      }
+    ]
+  },
+  {
+    "cluster_id": 108,
+    "n_chunks": 113,
+    "representative_chunks": [
+      {
+        "chunk_index": 12961,
+        "title": "Oja's plasticity rule overcomes several challenges of training neural\n  networks under biological constraints",
+        "text_preview": "## Optimal linear mapping\n\nWe derived optimal linear mappings between adjacent layers to assess the extent to which layer-wise activations preserve upstream information. Specifically, we identified a linear transformation for each layer $\\ell$ that minimizes the reconstruction error between the pre-"
+      },
+      {
+        "chunk_index": 12970,
+        "title": "Oja's plasticity rule overcomes several challenges of training neural\n  networks under biological constraints",
+        "text_preview": "# S4 Rapid norm re-scaling and maintenance with Oja's rule \n\nIn Figs. 4 and 6a, we presented activation norms after model convergence. Here, we expand on those findings by illustrating the evolution of activation norms over the course of online training. Figures S3a-f depict comparisons between stan"
+      },
+      {
+        "chunk_index": 12960,
+        "title": "Oja's plasticity rule overcomes several challenges of training neural\n  networks under biological constraints",
+        "text_preview": "# Methods\n## Models\n\nWe implemented two distinct feedforward neural network architectures to perform the 10-class classification task on the MNIST dataset. Networks were trained online, with one sample presented per iteration (batch size $=1$ ) over a single epoch. Both architectures were initialize"
+      }
+    ]
+  },
+  {
+    "cluster_id": 109,
+    "n_chunks": 109,
+    "representative_chunks": [
+      {
+        "chunk_index": 10538,
+        "title": "Deep Optimal Sensor Placement for Black Box Stochastic Simulations",
+        "text_preview": "### 1.1 Related Work\n\nNeural Operators Neural Operators are a class of deep learning architectures designed to learn maps between infinite-dimensional function spaces. As datadriven methods, they do not require any knowledge of the underlying PDE. Additionally, they are resolution invariant in the s"
+      },
+      {
+        "chunk_index": 10553,
+        "title": "Deep Optimal Sensor Placement for Black Box Stochastic Simulations",
+        "text_preview": "# A Methodology: Further Details\n## A. 1 Implicit Neural Representations\n\nSince we are using the latent representations to learn a surrogate model for the operator $\\mathcal{G}$, similar functions should map to similar latent representations. This is guaranteed via the following proposition.\nProposi"
+      },
+      {
+        "chunk_index": 10562,
+        "title": "Deep Optimal Sensor Placement for Black Box Stochastic Simulations",
+        "text_preview": "## D. 1 Training\n\nThe training is done in two steps. First, we train the modulated INRs to encode the functional data in a finite dimensional latent space. Due to the generalisation capabilities of the INR, we train it on datasets of increasing size until the reconstruction error stabilises on a val"
+      }
+    ]
+  },
+  {
+    "cluster_id": 110,
+    "n_chunks": 100,
+    "representative_chunks": [
+      {
+        "chunk_index": 11496,
+        "title": "Spectral gaps and Fourier decay for self-conformal measures in the plane",
+        "text_preview": "# 2.5.4 Proof of Part 2 of Lemma 2.8 \n\nIn this subsection we show that the cones constructed in the previous subsection are $L^{2}$-contracted by the operators $N_{s, \\ell}^{J}$. Our discussion is based on our one dimensional version [4, Section 2.7.2] and the corresponding result of Oh-Winter [44, "
+      },
+      {
+        "chunk_index": 11497,
+        "title": "Spectral gaps and Fourier decay for self-conformal measures in the plane",
+        "text_preview": "# 2.5.5 Proof of Part 3 of Lemma 2.8 \n\nIn this subsection we prove the existence of dominating Dolgopyat operators, in the sense of Lemma 2.8 Part (3). This is the most involved part of the proof. At its heart is the following Lemma, which is a higher dimensional version of [4, Lemma 2.2], and a mod"
+      },
+      {
+        "chunk_index": 11492,
+        "title": "Spectral gaps and Fourier decay for self-conformal measures in the plane",
+        "text_preview": "# 2.4 Statement of spectral gap and reduction to the construction of Dolgopyat operators \n\nA standard norm to put on $C^{1}(D)=C^{1}(D, \\mathbb{C})$ is\n\n$$\n\\|\\varphi\\|_{C^{1}}=\\|\\varphi\\|_{\\infty}+\\|\\nabla \\varphi\\|_{\\infty}\n$$\n\nAs in the works of Oh-Winter [44, equation (2.2)] and Dolgopyat [23, Se"
+      }
+    ]
+  },
+  {
+    "cluster_id": 111,
+    "n_chunks": 51,
+    "representative_chunks": [
+      {
+        "chunk_index": 937,
+        "title": "Medical Spoken Named Entity Recognition",
+        "text_preview": "### 4.3.1 Seq2seq Training for NER Task\n\nFollowing the approach proposed by Phan et al. (2021) and later adopted by ViT5 (Phan et al., 2022), we formulated the sequence tagging task as\n\n![table_2](table_2)\n\nTable 3: NER results on reference text of test set. The metrics shown are Precision, Recall, "
+      },
+      {
+        "chunk_index": 938,
+        "title": "Medical Spoken Named Entity Recognition",
+        "text_preview": "### 4.3.2 Training Hyperparameters\n\nWe used HuggingFace Transformers (Wolf et al., 2019) for fine-tuning pre-trained models for the NER task. Vietnamese input sentences can be represented in either syllable or word level as described by Truong et al. (2021). However, we only employed word-level sett"
+      },
+      {
+        "chunk_index": 936,
+        "title": "Medical Spoken Named Entity Recognition",
+        "text_preview": "### 4.3 NER Models\n\nTable 2 shows the statistics of various pre-trained monolingual and multilingual models we consider to fine-tune on our dataset. To our knowledge, these are the best pre-trained models that achieved state-of-the-art results on various downstream tasks in the Vietnamese language, "
+      }
+    ]
+  },
+  {
+    "cluster_id": 112,
+    "n_chunks": 78,
+    "representative_chunks": [
+      {
+        "chunk_index": 15312,
+        "title": "Real-time Speech Summarization for Medical Conversations",
+        "text_preview": "### 5.3. Downstream Tasks\n\nSummarization on Human Transcript: We train the models on the abstractive summarization task on VietMed-Sum. To evaluate their performance, we calculate their ROUGE scores on the local and global summaries in the test set.\nSummarization on ASR Transcript: We also evaluated"
+      },
+      {
+        "chunk_index": 15304,
+        "title": "Real-time Speech Summarization for Medical Conversations",
+        "text_preview": "### 3.4. Data Statistics\n\n![table_0](table_0)\n\nTable 1: Data statistics for VietMed-Sum. Full table is in the Appendix.\n\nTable 1 shows the statistics of our dataset. To construct our VietMed-Sum dataset, we keep the original split of REAL by [4] as 5-5-6 hours for the corresponding train-dev-test se"
+      },
+      {
+        "chunk_index": 15315,
+        "title": "Real-time Speech Summarization for Medical Conversations",
+        "text_preview": "### 6.2. Synthetic Data Summarization\n\n![table_5](table_5)\n\nTable 6: Experimental results on VietMed-Sum's GOLD test set of each baseline model fine-tuned on SYN, (SYN + GOLD) and SYN $\\rightarrow$ GOLD. + refers to concatenating the datasets while $\\rightarrow$ refers to two-step fine-tuning. Bolde"
+      }
+    ]
+  },
+  {
+    "cluster_id": 113,
+    "n_chunks": 149,
+    "representative_chunks": [
+      {
+        "chunk_index": 8525,
+        "title": "Quantum linear algebra for disordered electrons",
+        "text_preview": "## IV. BLOCK-ENCODING THE DISORDERED HOPPING MATRIX\n\nWe start by focusing on the binary alloy model [33], which is a type of substitutional disorder where each atom randomly takes one of two atom types with probability $p$ and $1-p$ correspondingly. We then describe how to extend the same techniques"
+      },
+      {
+        "chunk_index": 389,
+        "title": "Krylov Subspace Methods for Quantum Dynamics with Time-Dependent\n  Generators",
+        "text_preview": "# SOLVABLE EXAMPLES\n## Single spin\n\nWe treat the single spin system, generally written as\n\n$$\n\\hat{H}(t)=h(t) \\boldsymbol{n}(t) \\cdot \\hat{\\boldsymbol{S}}\n$$\n\n$\\hat{\\boldsymbol{S}}=\\left(\\hat{S}^{x}, \\hat{S}^{y}, \\hat{S}^{z}\\right)$ represents the spin operator with $\\hat{\\boldsymbol{S}}^{2}=S(S+1)$"
+      },
+      {
+        "chunk_index": 8528,
+        "title": "Quantum linear algebra for disordered electrons",
+        "text_preview": "## VII. ACKNOWLEDGEMENTS\n\nWe thank Tomislav Begu\u0161i\u0107, David Huse, Jiaqing Jiang, Chenghan Li, Urmila Mahadev, Sam McArdle, David Reichman, Yizhi Shen, and Samson Wang for insightful discussions."
+      }
+    ]
+  },
+  {
+    "cluster_id": 114,
+    "n_chunks": 124,
+    "representative_chunks": [
+      {
+        "chunk_index": 2007,
+        "title": "The Codec Language Model-based Zero-Shot Spontaneous Style TTS System\n  for CoVoC Challenge 2024",
+        "text_preview": "### 3.2. Model Architecture\n\nAs shown in Figure 1, our model is a codec language modelbased TTS, which aims to generate acoustic tokens conditioned on the text encoding sequence. For the model bacbone, we leverage a powerful transformer architecture LLaMA [20]. Besides, we use fast and memory-effici"
+      },
+      {
+        "chunk_index": 7794,
+        "title": "CPT-Boosted Wav2vec2.0: Towards Noise Robust Speech Recognition for\n  Classroom Environments",
+        "text_preview": "## II. BACKGROUND AND RELATED PREVIOUS WORKS\n## A. Wav2vec2.0\n\nWav2vec2.0 is a Self Supervised Learning (SSL) speech representation model developed by [6] which utilizes the contextualization capabilities of transformers to learn contextual self-supervised representations from unlabeled audio.\n\nWhil"
+      },
+      {
+        "chunk_index": 2004,
+        "title": "The Codec Language Model-based Zero-Shot Spontaneous Style TTS System\n  for CoVoC Challenge 2024",
+        "text_preview": "## 2. Data Preparation\n\nThe system we have submitted adheres to the constrained track, meaning our model was trained exclusively using the WenetSpeech4TTS, MAGICDATA-RAMC, and HQ-Conversations datasets provided for this Challenge. The duration and basic information of these datasets are presented in"
+      }
+    ]
+  },
+  {
+    "cluster_id": 116,
+    "n_chunks": 59,
+    "representative_chunks": [
+      {
+        "chunk_index": 15133,
+        "title": "Construction of Quasi-periodic solutions with the same Gevrey index as\n  nonlinear terms in Multi-Dimensional NLS",
+        "text_preview": "# B Diophantine condition \n\nLemma B.1. Let $I \\subset \\mathbb{R}^{b}$ be an interval of size 1 , and let $M, N$ be large integers, and $\\gamma$ be a small constant. Furthermore, suppose that $N^{-1}<\\gamma$. Then, there exists a family of disjoint intervals $\\left\\{I_{\\zeta}\\right\\}_{\\zeta \\in J}$ o"
+      },
+      {
+        "chunk_index": 15130,
+        "title": "Construction of Quasi-periodic solutions with the same Gevrey index as\n  nonlinear terms in Multi-Dimensional NLS",
+        "text_preview": "# 6.3 Estimation of $G_{N_{r+1}}$ \n\nSuppose that the Iterative Lemma holds up to step $r$ (the reason we assume the Iterative Lemma holds up to step $r$ here, rather than till $r-1$ as before, is solely for the sake of notation simplicity). In this section, we will generate $\\Lambda_{r+1}$ by refini"
+      },
+      {
+        "chunk_index": 15126,
+        "title": "Construction of Quasi-periodic solutions with the same Gevrey index as\n  nonlinear terms in Multi-Dimensional NLS",
+        "text_preview": "# 5.4 The reality of $\\lambda^{\\prime}$ and the approximation of $Q$-equations \n\nSince $\\hat{q}_{r}(x) \\in \\mathbb{R}$ for all $x \\in \\mathbb{Z}^{b+d}$, we have $\\frac{\\widehat{\\partial H}}{\\partial \\bar{q}}\\left(q_{r}, \\bar{q}_{r}\\right)\\left(n_{j}, e_{j}\\right)\\left(\\lambda, \\lambda^{\\prime}\\right"
+      }
+    ]
+  },
+  {
+    "cluster_id": 117,
+    "n_chunks": 87,
+    "representative_chunks": [
+      {
+        "chunk_index": 2044,
+        "title": "Inference for Interval-Identified Parameters Selected from an Estimated\n  Set",
+        "text_preview": "# 4.2 Empirical Welfare Maximization with Observational Data \n\nConsider allocating a binary treatment based on observed covariates $X \\in \\mathcal{X}$. A treatment allocation rule can be defined as a function $\\delta: \\mathcal{X} \\rightarrow\\{0,1\\}$ in a class of rules $\\mathcal{D}$. Consider the ut"
+      },
+      {
+        "chunk_index": 2041,
+        "title": "Inference for Interval-Identified Parameters Selected from an Estimated\n  Set",
+        "text_preview": "# 3 General Inference Framework \n\nWe now introduce the general inference framework that we propose, nesting the Manski bound example of the previous section as a special case. After introducing the general framework, we describe several additional example applications that fall within this framework"
+      },
+      {
+        "chunk_index": 2049,
+        "title": "Inference for Interval-Identified Parameters Selected from an Estimated\n  Set",
+        "text_preview": "# 5.2 Unconditional Confidence Intervals \n\nIn parallel with the previous subsection, we now generalize the unconditional CI constructions described in Section 2.3 to the general framework of Section 3. Note that conditional inference on $W(d)$ is well-defined for any given $d \\in \\widehat{\\mathcal{D"
+      }
+    ]
+  },
+  {
+    "cluster_id": 118,
+    "n_chunks": 63,
+    "representative_chunks": [
+      {
+        "chunk_index": 668,
+        "title": "Asymptotics for estimating a diverging number of parameters -- with and\n  without sparsity",
+        "text_preview": "# 3.4 Asymptotic Normality and the Oracle Property \n\nFinally, we establish asymptotic normality of the estimator $\\tilde{\\boldsymbol{\\theta}}_{(1)}$.\nTheorem 7. Suppose that (P4) holds and that for some matrix $A_{n} \\in \\mathbb{R}^{q \\times s_{n}}$ with $\\left\\|A_{n}\\right\\|=O(1)$, the reduced prob"
+      },
+      {
+        "chunk_index": 662,
+        "title": "Asymptotics for estimating a diverging number of parameters -- with and\n  without sparsity",
+        "text_preview": "# 2.3 Asymptotic Normality \n\nWe now turn to the asymptotic normality of the estimator. Because the dimension of the parameter space grows with the sample size, we state this in terms of convergence of finitedimensional projections. Let $A_{n} \\in \\mathbb{R}^{q \\times p_{n}}$ be some matrix.\n\n[^0]\n[^"
+      },
+      {
+        "chunk_index": 686,
+        "title": "Asymptotics for estimating a diverging number of parameters -- with and\n  without sparsity",
+        "text_preview": "## A. 7 Proof of Theorem 7\n\nSimilar to the proof of Theorem 3, we obtain\n\n$$\n\\begin{aligned}\n\\mathbf{0}= & \\mathbb{P}_{n} \\phi(\\tilde{\\boldsymbol{\\theta}})_{(1)}-p_{\\boldsymbol{\\lambda}_{n}}^{\\prime}(\\tilde{\\boldsymbol{\\theta}})_{(1)} \\\\\n= & \\mathbb{P}_{n} \\phi\\left(\\boldsymbol{\\theta}^{*}\\right)_{("
+      }
+    ]
+  },
+  {
+    "cluster_id": 120,
+    "n_chunks": 50,
+    "representative_chunks": [
+      {
+        "chunk_index": 9962,
+        "title": "Bayesian penalized empirical likelihood and Markov Chain Monte Carlo\n  sampling",
+        "text_preview": "# 2.3 MCMC Algorithms\n### 2.3.1 Algorithm 1\n\nIn recent decades, MCMC sampling methods have achieved significant success and have garnered influential applications across diverse fields. For an extensive overview of this body of work, we refer to the monograph by Brooks et al. (2011) and reference th"
+      },
+      {
+        "chunk_index": 9963,
+        "title": "Bayesian penalized empirical likelihood and Markov Chain Monte Carlo\n  sampling",
+        "text_preview": "# 2.3.2 Algorithm 2 \n\nAnother widely-used MCMC technique is Importance Sampling (Ripley, 2006; Hesterberg, 1995). This method involves generating samples from a proposal distribution and then applying importance weights to these samples to account for the disparities between the proposal distributio"
+      },
+      {
+        "chunk_index": 9964,
+        "title": "Bayesian penalized empirical likelihood and Markov Chain Monte Carlo\n  sampling",
+        "text_preview": "# 2.4 Sampling vs Optimizations \n\nWe advocate the utilization of sampling techniques as a practical and efficient alternative to optimization methods for addressing computationally challenging PEL problems. Specifically for obtaining the estimator $\\hat{\\boldsymbol{\\theta}}_{n}$ as defined in (3), w"
+      }
+    ]
+  },
+  {
+    "cluster_id": 122,
+    "n_chunks": 96,
+    "representative_chunks": [
+      {
+        "chunk_index": 16348,
+        "title": "Robust Equilibria in Generic Extensive form Games",
+        "text_preview": "# 2.4. Main Result \n\nWe recall the definition of Hyperstability.\nDefinition 2.4. A component $K$ of equilibria in mixed strategies of a normal-form game $\\mathbb{G}$ is hyperstable if for each equivalent game $\\tilde{\\mathbb{G}}$ and every $\\varepsilon>0$, there exists $\\delta>0$ such that any $\\del"
+      },
+      {
+        "chunk_index": 16356,
+        "title": "Robust Equilibria in Generic Extensive form Games",
+        "text_preview": "# 6. APPLICATIONS \n\nIn this section we analyze some examples including a few prominent models in the economics literature and show how index computation can be used to eliminate non-hyperstable\n\nFigure 7. A perturbation of a game equivalent to Figure 1\n![img-6.jpeg](img-6.jpeg)\nequilibria. We begin "
+      },
+      {
+        "chunk_index": 16353,
+        "title": "Robust Equilibria in Generic Extensive form Games",
+        "text_preview": "# Lemma 5.6. The following statements hold: \n\n(1) The neighborhood $\\mathscr{O}^{\\delta}$ is admissible for $\\mathrm{BR}^{\\times} \\times \\Phi$.\n(2) For $\\varepsilon_{1}, \\varepsilon_{2}>0$ sufficiently small, $\\mathscr{O}^{\\delta}$ is admissible for $\\mathrm{BR}^{\\times} \\times \\Phi^{\\varepsilon_{1}"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+question_subset: data/processed/subsets/openrag_text_only_100.json
+
+generators:
+  - strong_api
+  - mid_api
+  - local_open
+
+retrievers:
+  - dense
+  - hybrid
+
+scaffolds:
+  - topk3
+  - topk8

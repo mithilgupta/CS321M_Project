@@ -1,0 +1,10 @@
+generators:
+  strong_api:
+    provider: anthropic
+    model_name: claude-opus-4-5
+  mid_api:
+    provider: anthropic
+    model_name: claude-haiku-4-5
+  local_open:
+    provider: hf_local
+    model_name: Qwen/Qwen2.5-3B-Instruct

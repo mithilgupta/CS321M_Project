@@ -1,0 +1,68 @@
+=================================================================
+  QUERY DIFFICULTY DIAGNOSTIC REPORT
+  RAG Question Bank Audit — Stanford CS321M
+  Generated : 2026-05-26 20:26 UTC
+  LLM Judge : anthropic / claude-sonnet-4-5
+=================================================================
+
+OVERALL DIFFICULTY DISTRIBUTION
+----------------------------------------
+  Questions scored : 99
+  Questions flagged: 3
+  Mean composite   : 1.46
+  Std              : 0.39
+  Range            : 1.00 – 2.67
+
+  DIFFICULTY BAND BREAKDOWN
+  Band              N        %  Score Range
+  ----------------------------------------
+  Easy             85   85.9%  1.00 – 1.67
+  Medium           10   10.1%  1.67 – 2.33
+  Hard              4    4.0%  2.33 – 3.00
+
+PER-DIMENSION SCORE DISTRIBUTIONS
+----------------------------------------
+  Query Formulation
+    Low  (1):  71 (72.4%)
+    Med  (2):  15 (15.3%)
+    High (3):  12 (12.2%)
+    Mean: 1.40 | Std: 0.70
+
+  Reasoning Demand
+    Low  (1):  43 (43.9%)
+    Med  (2):  48 (49.0%)
+    High (3):   7 (7.1%)
+    Mean: 1.63 | Std: 0.61
+
+  Answer Form Complexity
+    Low  (1):  64 (66.0%)
+    Med  (2):  33 (34.0%)
+    High (3):   0 (0.0%)
+    Mean: 1.34 | Std: 0.47
+
+DIFFICULTY BY QUESTION TYPE
+----------------------------------------
+  abstractive          n= 50 | Mean=1.56 | Std=0.42
+  extractive           n= 49 | Mean=1.35 | Std=0.32
+
+RECOMMENDATIONS
+----------------------------------------
+  ❌ SKEWED EASY: 85.9% of questions score in the easy band (85/99). The question bank is dominated by low-difficulty queries. This creates a ceiling effect — strong RAG systems cannot be differentiated from weak ones on this bank. Recommend adding at least 20 hard questions.
+
+  ❌ INSUFFICIENT HARD QUESTIONS: Only 4.0% of questions score in the hard band (4/99). A valid measurement instrument needs sufficient hard items to discriminate between high-performing systems. Recommend a minimum of 19 hard questions.
+
+  ⚠️  THIN MIDDLE: Only 10.1% medium-difficulty questions (10/99). The question bank lacks a gradient — it jumps from easy to hard without sufficient intermediate difficulty.
+
+  ❌ POOR BALANCE: Difficulty distribution deviates significantly from ideal thirds (Easy 85.9% / Medium 10.1% / Hard 4.0%). The question bank does not provide balanced difficulty coverage.
+
+  ℹ️  MANUAL REVIEW NEEDED: 3 questions could not be scored by the LLM judge after retries. Check per_query_scores.json for questions with flagged_dims set.
+
+OUTPUT FILES
+----------------------------------------
+  per_query_scores.json        — per-question scores and reasoning
+  difficulty_report.json       — all aggregate metrics
+  difficulty_report.txt        — this report
+  distribution_overall.png     — composite score histogram + bands
+  distribution_by_dimension.png— per-dimension score bars
+  distribution_by_type.png     — difficulty by question type
+=================================================================

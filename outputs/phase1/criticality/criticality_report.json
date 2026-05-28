@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-05-26T20:32:22.830004",
+  "llm_provider": "anthropic",
+  "llm_model": "claude-sonnet-4-5",
+  "domain_map_note": "Illustrative domain-criticality map. Replace with SME input in production.",
+  "n_total": 100,
+  "n_scored": 94,
+  "n_flagged": 6,
+  "score_distribution": {
+    "n_scored": 94,
+    "counts": {
+      "1": 15,
+      "2": 74,
+      "3": 5
+    },
+    "pct_low": 0.16,
+    "pct_medium": 0.787,
+    "pct_high": 0.053,
+    "mean": 1.894,
+    "std": 0.449
+  },
+  "domain_counts": {
+    "Research and Development": 71,
+    "Informational": 11,
+    "General FAQ": 3,
+    "Compliance and Regulatory": 1,
+    "Onboarding and Training": 1,
+    "Pricing and Financial": 1,
+    "Medical and Health": 1,
+    "Data Privacy and Security": 1,
+    "Product and Technical Specs": 3,
+    "Safety and Risk": 1
+  },
+  "recommendations": [
+    "\u274c INSUFFICIENT HIGH-CRITICALITY COVERAGE: Only 5.3% of questions (5/94) cover high-criticality domains. The question bank may be under-testing the areas where RAG failures carry the most business risk. Add questions covering compliance, legal, pricing, and safety domains.",
+    "\u2705 CRITICALITY BALANCE: Low-criticality questions at 16.0% \u2014 within acceptable range.",
+    "\u2139\ufe0f  SME INPUT REQUIRED: The domain-criticality map used in this analysis is illustrative. In production, this map should be defined by Subject Matter Experts who understand which query domains carry the highest business risk for this specific enterprise context.",
+    "\u2139\ufe0f  MANUAL REVIEW: 6 questions could not be scored. Check per_query_scores.json for flagged entries."
+  ]
+}

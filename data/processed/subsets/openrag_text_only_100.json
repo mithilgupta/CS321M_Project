@@ -1,0 +1,902 @@
+[
+  {
+    "question_id": "36f030c0-2cfe-4555-a271-e2207b65d9c5",
+    "question": "Can spin-polarized STM on a magnetic impurity detect the winding of nodes in monolayer NbSe2?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.13042v2",
+    "gold_section_id": 12,
+    "reference_answer": "Yes, spin-polarized STM on a magnetic impurity can detect the winding of each of the 12 nodes in monolayer NbSe2."
+  },
+  {
+    "question_id": "fb84b1d8-9a22-4847-b0b1-1576d0a396ff",
+    "question": "How does the American framework differ from the European construct in Uniswap V3?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.12375v3",
+    "gold_section_id": 4,
+    "reference_answer": "The American framework allows termination of the automated market-making process at any chosen point in time."
+  },
+  {
+    "question_id": "3a5ebf09-9fb8-44e8-98db-bae4cd4c329b",
+    "question": "Is there always a Hamiltonian cycle that is a Tverberg graph for finite planar point sets?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.08977v2",
+    "gold_section_id": 2,
+    "reference_answer": "Yes, Pirahmad et al. proved that for any finite planar point set, there exists a Hamiltonian cycle that is a Tverberg graph."
+  },
+  {
+    "question_id": "e4aa5613-8f28-44a6-ac2a-4e3186c624e0",
+    "question": "What does the masking-based approach result in for deformable object understanding?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.08777v2",
+    "gold_section_id": 31,
+    "reference_answer": "The masking-based approach results in interpretable results for deformable object understanding."
+  },
+  {
+    "question_id": "33a6bf61-c5c9-4453-94f1-e6aa37a696ed",
+    "question": "How is the index assigned to a zero of $f$ if the determinant of its Jacobian is positive?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.18449v2",
+    "gold_section_id": 5,
+    "reference_answer": "The index +1 is assigned if the determinant of the Jacobian at a zero $\\sigma$ is positive."
+  },
+  {
+    "question_id": "9199173b-3ed1-4118-88cd-1713fc5fa8a7",
+    "question": "How do changes in effective microbial death rate influence parameters like alpha and beta?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2404.00822v2",
+    "gold_section_id": 17,
+    "reference_answer": "Increases in heterogeneity related to effective microbial death rates lead to decreases in both alpha and beta parameters. Conversely, increasing expectations for these rates results in higher values for alpha and beta, indicating their sensitivity to changes in underlying biological conditions."
+  },
+  {
+    "question_id": "adc9cb43-aef8-456c-90a0-5fd152c856cd",
+    "question": "What types of point spread functions are used in simulation-based methods for generating density maps?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2407.17674v2",
+    "gold_section_id": 2,
+    "reference_answer": "Gaussian, triangular, or hard-sphere point spread functions are used."
+  },
+  {
+    "question_id": "1a3eb39c-4d34-4b72-ac61-d592715385b5",
+    "question": "What is the focus of mean-variance optimization in life insurance contracts?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.11761v3",
+    "gold_section_id": 0,
+    "reference_answer": "The focus is on determining the optimal portfolio choice for equity holders in participating life insurance contracts, using mean-variance optimization to derive explicit formulas for optimal terminal wealth and strategy within a multi-dimensional Black-Scholes model."
+  },
+  {
+    "question_id": "3462335f-06ba-4f3d-a84d-f17bd349f58d",
+    "question": "Why are onset annotations considered subjective in sound events?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2408.11915v2",
+    "gold_section_id": 6,
+    "reference_answer": "Onset annotations are considered subjective because they lack a systematic definition and may not align with both the waveform envelope and human perception."
+  },
+  {
+    "question_id": "a6a97448-b831-4840-8fd1-18187fe1a3cf",
+    "question": "What role does the CPC complex play in WER transcriptional regulation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.11338v2",
+    "gold_section_id": 25,
+    "reference_answer": "The CPC complex represses WER transcription, enabling successful parameter sets for root hair patterning."
+  },
+  {
+    "question_id": "6bc2ab72-a7ee-4cf6-a40f-4caf56d1533c",
+    "question": "What does it mean for a foundation to be consistent?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.02507v2",
+    "gold_section_id": 1,
+    "reference_answer": "A foundation is consistent if every chain of deductions that produces a contradiction can be shown to have a logical error."
+  },
+  {
+    "question_id": "ce80e7b0-d3fc-4ac1-a386-6d1c9e8705bf",
+    "question": "What are some properties that define a semi-metric used in max-sum matchings?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2403.08977v2",
+    "gold_section_id": 1,
+    "reference_answer": "A semi-metric satisfies non-negativity, identity (distance from any point to itself is zero), symmetry (distance from x to y equals distance from y to x), and connected level sets for fixed points with respect to any real constant difference."
+  },
+  {
+    "question_id": "57c2bbd1-5823-4dca-b4b3-245a6e99f0cb",
+    "question": "What is a dominant strategy for candidate 1 when combining a large valence advantage with policy motivation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.20982v2",
+    "gold_section_id": 10,
+    "reference_answer": "It is a dominant strategy for candidate 1 to choose $p_{1}=\\omega$, and this policy indeed wins the election."
+  },
+  {
+    "question_id": "3c819e80-2b92-43c1-88f8-ea352f7bea33",
+    "question": "Do feedback Nash equilibria map game states to players' controls?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.16441v2",
+    "gold_section_id": 2,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "a3c0466b-b67f-4ba1-901c-3a3017d8330c",
+    "question": "Is it necessary to explicitly teach correspondence between genes and proteins to the OmniBioTE model?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2408.16245v3",
+    "gold_section_id": 3,
+    "reference_answer": "No, it is not necessary to explicitly teach correspondence between genes and proteins to the OmniBioTE model."
+  },
+  {
+    "question_id": "685cea83-fba8-4938-bfc5-fdaaace836fc",
+    "question": "What do discriminative probabilistic models learn in supervised learning?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.09156v3",
+    "gold_section_id": 15,
+    "reference_answer": "Discriminative probabilistic models learn the conditional probability mass function \\( p(\\mathbf{y} \\mid \\mathbf{x}) \\) of \\(\\mathbf{y}\\) given data \\(\\mathbf{x}\\)."
+  },
+  {
+    "question_id": "6722ea4f-d84c-4b58-92d7-9d5edf35030e",
+    "question": "What wavelength is the laser operating on when collecting atoms in a magneto-optical trap (MOT)?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.18677v2",
+    "gold_section_id": 5,
+    "reference_answer": "The laser operates on the 626 nm line."
+  },
+  {
+    "question_id": "dbdd7c09-cfff-4574-b8e1-2093fd40d596",
+    "question": "Why might it be tempting to assume that control programs are not encouraged by their assignments?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.09808v3",
+    "gold_section_id": 13,
+    "reference_answer": "It might be tempting because control programs are often viewed as \"base states,\" leading to an assumption that they remain unaffected by their corresponding assignments. However, this study finds such assumptions may not always align with actual data patterns."
+  },
+  {
+    "question_id": "5c6a0b72-e091-4f4e-939d-9a9d7f385962",
+    "question": "In what domains has the GAN architecture demonstrated superior performance?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.17674v2",
+    "gold_section_id": 3,
+    "reference_answer": "The GAN architecture has demonstrated superior performance in image generation, super-resolution, and 3D object generation."
+  },
+  {
+    "question_id": "8d1dddca-2a98-4552-9e36-0e740531970f",
+    "question": "Is an empirical study based on a finite number of experimental conditions?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.17374v2",
+    "gold_section_id": 5,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "93a9592d-a4ed-4c61-94c9-3f73cec11eae",
+    "question": "Is there at most one cluster containing a non-empty set \\( S \\)?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2404.17509v2",
+    "gold_section_id": 8,
+    "reference_answer": "Yes, when \\( S \\neq \\emptyset \\), there is at most one such cluster."
+  },
+  {
+    "question_id": "431d2179-fff2-4909-97e2-32c3316847ca",
+    "question": "How does heterogeneity in microbial infectivity affect infection probability?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2404.00822v2",
+    "gold_section_id": 17,
+    "reference_answer": "Heterogeneity in microbial infectivity can enhance the chances of infection when there is variation within the microbial population ingested by a host. This type of heterogeneity increases the likelihood of infection compared to scenarios where infectivity is uniform."
+  },
+  {
+    "question_id": "5517b1a4-ac90-4492-b474-329016b737f2",
+    "question": "Is the Gene Ontology suitable for learning hyperbolic representations?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2401.15478v2",
+    "gold_section_id": 2,
+    "reference_answer": "Yes, due to its hierarchical relationships."
+  },
+  {
+    "question_id": "e8501c63-dbf4-4345-b3b7-37c368e6ee8c",
+    "question": "What does it mean for two stable groups to be principal?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.16586v3",
+    "gold_section_id": 4,
+    "reference_answer": "Two stable groups are said to be principal if they have the same connected components, i.e., $G_{1}^{0} = G_{2}^{0}$."
+  },
+  {
+    "question_id": "d72df1c0-5a86-440d-9332-8a855b2761ac",
+    "question": "Why might one choose to use KDE-HPD over traditional conformal methods?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.08366v2",
+    "gold_section_id": 18,
+    "reference_answer": "One might choose KDE-HPD over traditional methods due to its ability to accurately handle both unimodal and multi-modal target distributions by providing appropriate predictive density sets or unions of disjoint sets."
+  },
+  {
+    "question_id": "585372bd-8259-4072-a2fe-0f3257af3253",
+    "question": "What is the purpose of using jackknife samples in halo profile estimation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.03988v2",
+    "gold_section_id": 24,
+    "reference_answer": "Jackknife samples are used to evaluate the estimation error in halo profile estimation."
+  },
+  {
+    "question_id": "2a50f720-593d-4fe8-b51f-7df971a083a8",
+    "question": "How is an imbalance in representation identified as part of a hype scenario?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.07587v6",
+    "gold_section_id": 16,
+    "reference_answer": "An imbalance is identified by evidence of over or under-representation in news coverage compared to the stock's weight in its sector."
+  },
+  {
+    "question_id": "45798190-9b79-490b-a009-27f6cd82f871",
+    "question": "Is there a Wald-type estimator formulated for SWATE?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2405.07102v3",
+    "gold_section_id": 15,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "2366d3e9-9075-4c57-8238-03e286056dee",
+    "question": "Is the Semantic-Match Prompt effective for datasets similar to DeepMDatasets?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2408.14507v2",
+    "gold_section_id": 16,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "1ae79931-4763-4692-838d-5e4b0bbe63c7",
+    "question": "What type of data does recent advancements in Long-Term Series Forecasting focus on using with a Channel Independent approach?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.02969v2",
+    "gold_section_id": 36,
+    "reference_answer": "Recent advancements focus on using multivariate time series data with a Channel Independent approach."
+  },
+  {
+    "question_id": "57a27b99-452b-4883-93d0-6f316766513a",
+    "question": "What is glfBLUP and how does it address issues in genomic prediction?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2408.09876v2",
+    "gold_section_id": 0,
+    "reference_answer": "The genetic latent factor best linear unbiased prediction (glfBLUP) is a method designed to improve genomic predictions by reducing dimensionality through generative factor analysis. It uses filtered and regularized correlation matrices to fit a maximum likelihood factor model, estimating genetic latent factors that enhance multi-trait predictions while maintaining interpretability."
+  },
+  {
+    "question_id": "74aa3150-1253-42dc-aaaf-8b1cb9e96455",
+    "question": "Are Bayesian persuasion and cheap talk equivalent under the learning agent model?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2402.09721v6",
+    "gold_section_id": 7,
+    "reference_answer": "Yes, Bayesian persuasion is equivalent to cheap talk under the learning agent model."
+  },
+  {
+    "question_id": "97063f67-4ef5-41e9-8982-89f2235a6aec",
+    "question": "Does misreporting by one client affect other clients negatively?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.00980v2",
+    "gold_section_id": 7,
+    "reference_answer": "Yes, one client's misreporting can make other clients worse off."
+  },
+  {
+    "question_id": "b9d38f17-f803-4b5c-98d1-2d678c0e2835",
+    "question": "Is learning the score function efficiently part of the algorithm's framework in diffusion models?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2404.18869v2",
+    "gold_section_id": 10,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "6f1e268c-3189-47a9-9500-fd6b10d27c62",
+    "question": "What benefits does the XAI-CHEST framework offer over traditional deep learning-based channel estimation methods?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.07009v2",
+    "gold_section_id": 0,
+    "reference_answer": "The XAI-CHEST framework offers improved bit error rate performance and reduced computational complexity compared to traditional deep learning-based methods. It achieves this by providing valid interpretations of model behavior through effective input feature selection."
+  },
+  {
+    "question_id": "2d8f71a5-b403-4d19-82fe-b0d1f674a5b0",
+    "question": "What is the primary advantage of the 'mirrored' optical lever?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2409.02275v2",
+    "gold_section_id": 3,
+    "reference_answer": "The primary advantage of the 'mirrored' optical lever is passive rejection of classical noises arising from the laser beam's transverse displacement and tilt."
+  },
+  {
+    "question_id": "024b9722-075d-4f35-8769-0e1ad6d2747d",
+    "question": "What is a Gaussian process (GP) characterized by?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.22824v2",
+    "gold_section_id": 3,
+    "reference_answer": "A Gaussian process (GP) is characterized by an expectation function $\\mu(\\cdot)$ and an autocovariance function $r(\\cdot, \\cdot)$."
+  },
+  {
+    "question_id": "b4bca301-33d1-46bf-b32c-aacd2bdb074d",
+    "question": "How does Stubborn Nakamoto handle potential consistency violations differently from the original Nakamoto protocol?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2409.08951v2",
+    "gold_section_id": 17,
+    "reference_answer": "Rather than allowing transactions to be added to the ledger only to be later reverted, Stubborn Nakamoto instructs nodes to halt and wait for a safe recovery when there is a risk of consistency violations."
+  },
+  {
+    "question_id": "1ee3b2a7-e5ff-4f6e-8a3d-907c439658c7",
+    "question": "What challenges are associated with finding block antecedents in JPEG forensics?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2408.17106v2",
+    "gold_section_id": 0,
+    "reference_answer": "The main challenge in finding block antecedents in JPEG forensics is navigating the high-dimensional space of possible configurations. This requires a local search algorithm that restricts the search space to efficiently identify whether an $8 \\times 8$ block has been altered."
+  },
+  {
+    "question_id": "a615f693-531b-4dc5-ad47-c2efcde3150e",
+    "question": "Can market segments differ in any strongly monotone and saturated segmentation if the uniform price exceeds \u03b8\u2081?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.14174v3",
+    "gold_section_id": 17,
+    "reference_answer": "No, they cannot differ; all such segmentations must have the same market segment as \u03b8\u2081."
+  },
+  {
+    "question_id": "b16783f0-6596-41be-9514-10982968030f",
+    "question": "What is the expression for the AC Stark shift of the atomic ground state?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.18677v2",
+    "gold_section_id": 2,
+    "reference_answer": "The AC Stark shift of the atomic ground state is modeled as \\( U(\\boldsymbol{r}, \\omega) = -\\frac{\\operatorname{Re}[\\alpha(\\omega)]}{2 \\epsilon_{0} c} I(\\boldsymbol{r}) \\)."
+  },
+  {
+    "question_id": "70688509-5161-4cda-997d-ee2e5628e3c1",
+    "question": "Is the function \\( L(x, y, t_{\\epsilon}) \\) quadratic in \\( x \\)?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2402.04840v3",
+    "gold_section_id": 19,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "c923f498-6a35-42ac-97cc-10fbcf83bb1d",
+    "question": "Can there be multiple SQL queries for a single natural language query in NL2SQL?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2408.05109v4",
+    "gold_section_id": 3,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "3d35579f-8ce6-48dc-b0c3-5aec506f73e1",
+    "question": "Are the dwell times of an sMTJ distributed according to a Poisson distribution?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.12783v2",
+    "gold_section_id": 10,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "e3e846eb-320c-43bb-8049-dd55a1d4e85f",
+    "question": "What is the action considered in the U(1) gauge x U(1) global model?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2411.03676v2",
+    "gold_section_id": 4,
+    "reference_answer": "The action is \\( S=-\\frac{\\beta_{H}}{2} \\sum_{x, \\mu} \\phi_{1}^{*}(x) U_{\\mu}(x) \\phi_{1}(x+\\hat{\\mu})-\\frac{\\beta_{H}}{2} \\sum_{x, \\mu} \\phi_{2}^{*}(x) U_{\\mu}(x) \\phi_{2}(x+\\hat{\\mu})-\\frac{\\beta_{g}}{2} \\sum_{x, \\mu<\\nu} U_{\\mu\\nu}(x)+\\text { c.c. } \\)."
+  },
+  {
+    "question_id": "9914e7cf-14f8-4a64-85f4-c35de05fdec9",
+    "question": "Why is Cobb-Douglas technology significant in studying aggregate output fluctuations?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2404.18137v2",
+    "gold_section_id": 2,
+    "reference_answer": "Cobb-Douglas technology is significant because it allows for linear aggregation of sectoral productivity growths due to its constant monetary input-output coefficients. This property simplifies the analysis by ensuring that fluctuations in aggregate output are proportionally related to sectoral shocks, making it easier to study their impact on the economy."
+  },
+  {
+    "question_id": "b4595669-6205-48df-8fe6-c4a26a0ddfad",
+    "question": "Can a PoS protocol regain liveness once an honest majority is restored?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2409.08951v2",
+    "gold_section_id": 23,
+    "reference_answer": "Yes, a PoS protocol can regain liveness once an honest majority is restored."
+  },
+  {
+    "question_id": "89c10cda-3293-4d74-82a0-9ada2e548949",
+    "question": "Is the missing data mechanism assumed to be Missing-At-Random (MAR)?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2408.06103v2",
+    "gold_section_id": 21,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "d435f496-2aa9-4c54-9aa1-138f5f383d3d",
+    "question": "What is a functional dependency in relational data?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.05821v2",
+    "gold_section_id": 9,
+    "reference_answer": "A functional dependency (FD) is a constraint between two sets of attributes in a relation from the data, where if for every pair of tuples \\( t_1 \\) and \\( t_2 \\) in an instance \\( r \\), if \\( t_1.X = t_2.X \\), then \\( t_1.Y = t_2.Y \\) and vice versa."
+  },
+  {
+    "question_id": "16fd0b9b-5a17-49fc-b317-a096df5f680c",
+    "question": "Can flux-balance laws be applied in the absence of spin for spinning bodies under gravitational self-force?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.10343v4",
+    "gold_section_id": 0,
+    "reference_answer": "Yes, in the absence of spin, a flux-balance law has been proven for any conserved action variables appearing in a Hamiltonian formulation of geodesic motion in Kerr spacetime."
+  },
+  {
+    "question_id": "3e51db10-5940-4f4f-8afb-29f7ceecf014",
+    "question": "How many groups are there for categorizing severity based on speech intelligibility ratings?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.16874v3",
+    "gold_section_id": 9,
+    "reference_answer": "There are four groups; very low, low, medium, and high."
+  },
+  {
+    "question_id": "39810050-7f41-49c5-8e93-a8c3dac96570",
+    "question": "How are usage examples generated for a package's components during documentation creation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.08932v2",
+    "gold_section_id": 11,
+    "reference_answer": "Usage examples are generated through transformations denoted as $e(M_{i})$ for each module."
+  },
+  {
+    "question_id": "13d172a6-bb0f-44ee-9b8a-09d3abab15ac",
+    "question": "How does dynamic similarity analysis (DSA) extend generalized shape metrics in evaluating system-level dissimilarities?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2409.18681v6",
+    "gold_section_id": 1,
+    "reference_answer": "DSA extends generalized shape metrics by focusing on system-level rather than trajectory-level dissimilarities while maintaining advantages like upholding the triangle inequality. It adapts previous analyses into a two-sided Procrustes problem but faces challenges due to non-convex optimization requirements, which complicate polynomial-time solvability unless specific conditions are met."
+  },
+  {
+    "question_id": "a528047e-326a-4044-a0ee-344d950f938e",
+    "question": "What is the Voting with Random Proposers (VRP) procedure?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.20476v2",
+    "gold_section_id": 0,
+    "reference_answer": "The Voting with Random Proposers (VRP) procedure is a voting method designed to address agenda manipulation. In this process, a randomly selected proposer suggests an alternative in each round, which is then voted on against the previous round's winner."
+  },
+  {
+    "question_id": "1b6acfcc-9a2b-4849-a8ba-df2af070b9be",
+    "question": "How early after the Big Bang did CMB measurements confirm coherence on horizon scales?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2408.13427v2",
+    "gold_section_id": 7,
+    "reference_answer": "CMB measurements confirmed coherence on horizon scales as early as 380,000 years after the Big Bang."
+  },
+  {
+    "question_id": "adff226a-9c91-42aa-ab90-cc620dd93bf9",
+    "question": "What is denoted by the joint survival function $\\bar{F}(\\boldsymbol{x})$?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2411.13384v2",
+    "gold_section_id": 2,
+    "reference_answer": "The joint survival function $\\bar{F}(\\boldsymbol{x})$ is denoted by $\\mathbb{P}(\\boldsymbol{X}>\\boldsymbol{x})$."
+  },
+  {
+    "question_id": "e7691211-362d-4e49-a821-188105863a46",
+    "question": "Why is it important to address intrasample heterogeneity in survival modeling?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2408.17188v2",
+    "gold_section_id": 0,
+    "reference_answer": "Addressing intrasample heterogeneity is crucial because it ensures that variations within a sample are accurately captured, leading to more precise estimates and predictions. Ignoring such heterogeneity could result in biased conclusions about treatment effects or risk factors."
+  },
+  {
+    "question_id": "b54940c9-1999-4860-b3fc-1c615809eed2",
+    "question": "What is the recommended trading action for Tesla?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2408.11878v2",
+    "gold_section_id": 60,
+    "reference_answer": "The recommended trading action is 'Buy'."
+  },
+  {
+    "question_id": "74d2e4d8-17fc-4c27-bc72-3743bc8c325a",
+    "question": "How can deep learning models be used to assess the risk of breast cancer recurrence?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.06650v2",
+    "gold_section_id": 12,
+    "reference_answer": "Deep learning models can analyze H&E stained whole slide images to approximate gene test results and learn morphological characteristics, such as mitotic figures. These models generally align with pathologists' opinions, suggesting they could help in assessing the risk of breast cancer recurrence by identifying common patterns."
+  },
+  {
+    "question_id": "76055a25-6c2d-4044-8978-ba8a937c8963",
+    "question": "How does structured input-output modeling differ from traditional resolvent analysis?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.14986v2",
+    "gold_section_id": 0,
+    "reference_answer": "Unlike traditional resolvent analysis, which treats nonlinear terms as unstructured forcing, structured input-output modeling incorporates the structure of nonlinear interactions within a linear framework. This approach reduces conservatism in stability estimates and highlights specific flow features more accurately."
+  },
+  {
+    "question_id": "6f81e419-79fe-47b4-b605-bf68fee82992",
+    "question": "What is the purpose of using synthetic audio data in machine learning?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.05923v2",
+    "gold_section_id": 18,
+    "reference_answer": "Synthetic audio data is used to enhance auditory understanding by providing distinct yet similar sounds, known as audio doppelg\u00e4ngers, which serve as a strong signal for contrastive learning. This approach helps improve the performance of models on various tasks by offering diverse and controllable variations beyond standard data augmentations."
+  },
+  {
+    "question_id": "2fab68df-dea2-46a3-8088-ca5e18ea843c",
+    "question": "How does Pygen aim to enhance the process of Python package creation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.08932v2",
+    "gold_section_id": 1,
+    "reference_answer": "Pygen aims to automate repetitive tasks in Python package creation, allowing researchers and technologists to focus on creativity and innovation. It transforms user descriptions into refined ideas, generates Python packages with comprehensive documentation, and facilitates seamless integration into users' local environments."
+  },
+  {
+    "question_id": "9c971dfd-8291-43bb-83ff-eb89ed532319",
+    "question": "Is a wider standard deviation indicative of higher or lower uncertainty in predictions with MC dropout?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2404.11929v3",
+    "gold_section_id": 11,
+    "reference_answer": "A wider standard deviation indicates higher uncertainty."
+  },
+  {
+    "question_id": "908eb619-5262-4a33-8cbd-725c932e7689",
+    "question": "What happens to the biased Werner density matrix when $p_A = p_B = \\frac{1}{2}$?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2409.18495v2",
+    "gold_section_id": 3,
+    "reference_answer": "When $p_A = p_B = \\frac{1}{2}$, we recover the original Werner density matrix."
+  },
+  {
+    "question_id": "f0eb092f-70d9-495a-abcf-2766704a638e",
+    "question": "What role does mean square prediction error play in evaluating linear predictors?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2401.06326v4",
+    "gold_section_id": 0,
+    "reference_answer": "Mean square prediction error (MSPE) serves as a key metric for evaluating the effectiveness of linear predictors by quantifying how closely a predictor's output matches actual outcomes. Minimizing MSPE is crucial for achieving accurate predictions."
+  },
+  {
+    "question_id": "015f84f5-d694-4fad-bfa5-d2f3687bcd52",
+    "question": "Is the accuracy of NVILA compromised for efficiency gains?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.04468v2",
+    "gold_section_id": 5,
+    "reference_answer": "No, NVILA's efficiency is achieved without compromising accuracy; it delivers comparable or even superior accuracy across image and video benchmarks."
+  },
+  {
+    "question_id": "10ae9fe2-6ced-4897-a781-bf097a8b4e62",
+    "question": "Is every nonempty subset of a left zero semigroup also a subsemigroup?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.23473v2",
+    "gold_section_id": 3,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "58b22e39-3154-455d-95c0-8e5b6b7a02a9",
+    "question": "Is there a unique segmentation when the uniform price of $\\mu$ is greater than $\\theta_{1}$?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.14174v3",
+    "gold_section_id": 17,
+    "reference_answer": "No, when the uniform price of $\\mu$ is strictly greater than $\\theta_{1}$, any strongly monotone and saturated segmentation must have the same market segment as $\\theta_{1}$."
+  },
+  {
+    "question_id": "1b943b7c-4717-4201-83c0-af1f8209b50e",
+    "question": "What is done to ensure privacy in medical data used for speech summarization?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.15888v2",
+    "gold_section_id": 37,
+    "reference_answer": "The data is anonymized and any text that might reveal patient identities is removed."
+  },
+  {
+    "question_id": "2ee8e18e-07f7-40a7-91b0-47d514f6913b",
+    "question": "What role does information about other agents play in mechanism design?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.00037v2",
+    "gold_section_id": 1,
+    "reference_answer": "In mechanism design, the information that agents have about other agents' preferences can significantly impact the outcomes of a game. The study explores how additional information about other agents can influence the implementability of social choice functions (SCFs), particularly in achieving desirable equilibrium outcomes."
+  },
+  {
+    "question_id": "2a70ee21-b70e-4a8f-916e-d3ee5fb08883",
+    "question": "What was the primary significance of foundations in ancient Greece?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2407.02507v2",
+    "gold_section_id": 2,
+    "reference_answer": "The primary significance of foundations in ancient Greece was its use as a metaphor for order in the natural world, rather than for \"real-world\" applications."
+  },
+  {
+    "question_id": "3a858f3f-4998-4a20-acd2-820129b28637",
+    "question": "What is the role of an impurity in detecting topological quantities in 2D superconducting systems?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.13042v2",
+    "gold_section_id": 8,
+    "reference_answer": "A judicious choice of impurity can be a powerful tool to determine topological quantities in 2D superconducting systems as well as any nodal chiral system."
+  },
+  {
+    "question_id": "44782556-505b-491a-8f8a-8f0dd44cbd28",
+    "question": "Does the agent's controlled inventory process have a positive relationship with trading speed in an acquisition problem?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2409.12776v2",
+    "gold_section_id": 5,
+    "reference_answer": "Yes, in an acquisition problem, the agent's controlled inventory process has a positive relationship with trading speed."
+  },
+  {
+    "question_id": "977d4dc9-f108-4fe9-bfa3-85af1dd4201a",
+    "question": "Are p-values under the null hypothesis i.i.d. from a uniform distribution?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.16076v3",
+    "gold_section_id": 12,
+    "reference_answer": "Yes, under the null hypothesis $H_0$, p-values are i.i.d. from $U[0,1]$."
+  },
+  {
+    "question_id": "fc696ad6-995b-4670-a69a-64f4a395caa3",
+    "question": "In what ways can this methodological approach impact future curriculum design across disciplines?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.15929v3",
+    "gold_section_id": 18,
+    "reference_answer": "By applying complex network analysis across various disciplines, educators can gain insights into curricular content organization, prioritize key topics, foster interdisciplinary connections, and guide reforms. This method supports integrated learning experiences through teacher collaboration and informs innovative approaches to curricular design at different educational levels."
+  },
+  {
+    "question_id": "bbe46a54-3249-4fe1-807a-0dad73e03a7e",
+    "question": "How are spatial and temporal characteristics analyzed in SAR imaging?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.03816v2",
+    "gold_section_id": 0,
+    "reference_answer": "Spatial and temporal characteristics in SAR imaging are analyzed by examining variations such as aspect angles, which affect radar cross-section measurements. Different statistical distributions like Weibull and Rayleigh are used to model these characteristics, providing insights into how they influence image data."
+  },
+  {
+    "question_id": "061855bb-b000-474e-8e09-e27109c5e168",
+    "question": "What happens if preferences violate single-peakedness in voting procedures?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.20476v2",
+    "gold_section_id": 7,
+    "reference_answer": "A Condorcet winner might not exist, and pairwise voting procedures might exhibit cycles."
+  },
+  {
+    "question_id": "ac9aaf2c-7e56-46a0-ab31-9823e949e91f",
+    "question": "Is FAST a hybrid simulator?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.04635v2",
+    "gold_section_id": 29,
+    "reference_answer": "Yes, FAST is a hybrid FPGA-CPU simulator that offloads its timing model computation on an FPGA while executing the functional model on a CPU."
+  },
+  {
+    "question_id": "e480153c-529c-45fd-95de-c7336ac9c872",
+    "question": "How does the concept of absolute sensitivity differ from traditional sensitivity analysis in CRNs?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2401.06987v2",
+    "gold_section_id": 1,
+    "reference_answer": "Absolute sensitivity is a basis-independent measure that quantifies how changes in one chemical's concentration affect another within a CRN. Unlike traditional sensitivity analysis, which depends on the choice of basis for the stoichiometric matrix, absolute sensitivities provide intrinsic values that remain consistent regardless of basis selection."
+  },
+  {
+    "question_id": "ccc11659-f558-4052-a58d-9211978badbd",
+    "question": "Is an accent classifier used to determine if input audio is native or non-native?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2410.14997v2",
+    "gold_section_id": 7,
+    "reference_answer": "Yes."
+  },
+  {
+    "question_id": "aef516d0-ea1b-4873-b478-ca2b1b8e3b76",
+    "question": "Can subjective beliefs replace objective stochastic processes in this approach?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2403.01421v2",
+    "gold_section_id": 7,
+    "reference_answer": "Yes, subjective beliefs replace objective stochastic processes in this approach."
+  },
+  {
+    "question_id": "7a890b29-3ae8-4c55-b9fb-39cfb1712a69",
+    "question": "What happens to WER/MYB23 proteins when their complex disassociates?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.11338v2",
+    "gold_section_id": 8,
+    "reference_answer": "When the WER/MYB23 complex disassociates, the proteins are gained back."
+  },
+  {
+    "question_id": "de261def-2005-4f68-90cb-fc51b65ef12d",
+    "question": "Does the probabilistic counter use more than $\\mathcal{O}(1)$ bits to detect if it has exceeded a threshold?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2402.13385v2",
+    "gold_section_id": 31,
+    "reference_answer": "No, it uses only $\\mathcal{O}(1)$ bits."
+  },
+  {
+    "question_id": "4566b6f3-8766-4294-bfe9-433b509c515e",
+    "question": "What type of motion do the asset prices follow in the stochastic correlation model?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.06343v3",
+    "gold_section_id": 8,
+    "reference_answer": "The asset prices follow a correlated geometric Brownian motion."
+  },
+  {
+    "question_id": "a590374c-77fa-4b96-9fab-eb6a9d684fe7",
+    "question": "What is the purpose of synthesizers in sound synthesis?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2406.05923v2",
+    "gold_section_id": 4,
+    "reference_answer": "Synthesizers expose control parameters that let sound designers guide them to produce desirable sounds for music, film, and many other applications."
+  },
+  {
+    "question_id": "dd7ed606-2c61-4846-8ac4-f64e07d3896d",
+    "question": "Is it necessary for an agent to consider dependencies between different dimensions of state space for efficient computation?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.07726v3",
+    "gold_section_id": 30,
+    "reference_answer": "No, it is not necessary; instead, using independencies between different dimensions can make computation more efficient."
+  },
+  {
+    "question_id": "b56698f8-1cba-4841-89c2-84e1f4ce9e95",
+    "question": "How does the concept of entropy apply to economic systems?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2412.00886v2",
+    "gold_section_id": 40,
+    "reference_answer": "In economic systems, entropy is used to describe the allowed changes in state during interactions between economies, where total entropy cannot decrease. This contrasts with traditional microeconomics, which focuses on utility functions that cannot be meaningfully added. Entropy provides a framework for understanding aggregate economic behavior and allows for the computation of quantities like temperature and money capacity."
+  },
+  {
+    "question_id": "945e2eb2-156e-4a5e-b4f9-26020e46a538",
+    "question": "How do upper adjacencies differ from lower adjacencies for simplices?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2409.09862v3",
+    "gold_section_id": 62,
+    "reference_answer": "Upper adjacencies tell us how two simplices are nested in other higher-dimensional simplices."
+  },
+  {
+    "question_id": "2cdd1fa3-5794-4a12-84b1-b5c5c524a9d7",
+    "question": "What is the method used to detect the winding around Dirac cones in graphene?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2412.13042v2",
+    "gold_section_id": 13,
+    "reference_answer": "The method involves detecting charge modulations around an impurity."
+  },
+  {
+    "question_id": "b6957146-85d0-471b-9783-f8f648e4c3c8",
+    "question": "What does the winding number \\( Q(C) \\) depend on?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2411.03676v2",
+    "gold_section_id": 10,
+    "reference_answer": "The winding number \\( Q(C) \\) depends only on \\( \\theta_{1}^{\\prime} = \\theta_{1} - \\theta_{2} \\)."
+  },
+  {
+    "question_id": "ba135f3f-566d-4624-97a8-4000b4d3d405",
+    "question": "Is there a unique solution to the phase problem if certain conditions are met?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2409.07413v5",
+    "gold_section_id": 1,
+    "reference_answer": "Yes, there is a unique solution to the phase problem if conditions such as limited spatial size and known scattering density environment are met."
+  },
+  {
+    "question_id": "244fbf0f-f43d-4180-9d97-0597869c3868",
+    "question": "Does the generic transitivity of an idempotent type imply that it equals its inverse?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.00912v2",
+    "gold_section_id": 5,
+    "reference_answer": "Yes, if a type $p$ is generically transitive, then it holds that $p = p^{-1}$."
+  },
+  {
+    "question_id": "57974a20-83f8-4a30-b935-ca111cc76f08",
+    "question": "Are participants allowed unsupervised access to firearms during the training session?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2407.16205v5",
+    "gold_section_id": 39,
+    "reference_answer": "No, participants are only provided firearms during supervised activities, and all firearms are securely stored when not in use."
+  },
+  {
+    "question_id": "0b2262f0-aa60-4f14-bab9-44d741209b95",
+    "question": "How does DELTA improve document-level translation?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.08143v2",
+    "gold_section_id": 1,
+    "reference_answer": "DELTA improves document-level translation by using a multi-level memory structure that stores information across different granularities. It includes components like Proper Noun Records, Bilingual Summary, Long-Term Memory, and Short-Term Memory to ensure consistency and coherence. These components help maintain consistent terminology usage and provide contextual information for more accurate translations."
+  },
+  {
+    "question_id": "73b2f637-40f8-488a-80fc-f5563db69a8d",
+    "question": "What is the purpose of action quality assessment in various fields?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2402.09444v3",
+    "gold_section_id": 1,
+    "reference_answer": "Action quality assessment (AQA) aims to evaluate how well an action is performed, which is crucial for applications in sports, surgical training, and other areas. It involves understanding subtle differences in actions to provide accurate assessments and feedback."
+  },
+  {
+    "question_id": "adc69681-d299-4fe0-8072-265e8fded982",
+    "question": "Do adaptive dynamics models restrict the phenotype space?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2406.01505v2",
+    "gold_section_id": 12,
+    "reference_answer": "No, adaptive dynamics models do not restrict the phenotype space $\\Omega$."
+  },
+  {
+    "question_id": "782b73e6-acc4-43ed-a6ae-97a9f4039769",
+    "question": "What challenges do large position holders face when executing trades in financial markets?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2401.03305v2",
+    "gold_section_id": 2,
+    "reference_answer": "Large position holders, such as pension funds or investment banks, face the challenge of managing significant market impact and transaction costs when executing trades. These trades need to be carefully planned to avoid substantial losses due to price impacts. Execution risk must be managed effectively to ensure that the overall profit and loss are not adversely affected."
+  },
+  {
+    "question_id": "5c4c70d3-ccac-46ee-9f5f-e77a505207ef",
+    "question": "Are definitions considered arbitrary constructs in mathematics?",
+    "question_type": "extractive",
+    "source": "text",
+    "gold_doc_id": "2407.02507v2",
+    "gold_section_id": 1,
+    "reference_answer": "No, major standard definitions are not arbitrary constructs; they are often the result of years of work to fix failures and consolidate partial successes and should be thought of as distilled hard-won wisdom."
+  },
+  {
+    "question_id": "32e01319-0f13-4749-9340-9f5f3dffcbc3",
+    "question": "What is the primary use case for the AutoML package in PyGen?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2411.08932v2",
+    "gold_section_id": 15,
+    "reference_answer": "The primary use case for the AutoML package in PyGen is to facilitate data analytics package creation."
+  },
+  {
+    "question_id": "1f5c19c9-39a0-4c9b-b027-eefe52b7e905",
+    "question": "What leads to low anticipatory utility when news is bad?",
+    "question_type": "abstractive",
+    "source": "text",
+    "gold_doc_id": "2410.20982v2",
+    "gold_section_id": 15,
+    "reference_answer": "When news is bad and suggests $\\omega=1$ strongly, it leads to low anticipatory utility."
+  }
+]

@@ -1,0 +1,50 @@
+=================================================================
+  BUSINESS CRITICALITY DIAGNOSTIC REPORT
+  RAG Question Bank Audit — Stanford CS321M
+  Generated : 2026-05-26 20:32 UTC
+  LLM Judge : anthropic / claude-sonnet-4-5
+  NOTE: Domain map is illustrative. SME input required for production.
+=================================================================
+
+CRITICALITY DISTRIBUTION
+----------------------------------------
+  Questions scored : 94
+  Mean criticality : 1.89
+
+  Level             N        %
+  ------------------------------
+  High (3)          5    5.3%
+  Medium (2)       74   78.7%
+  Low (1)          15   16.0%
+
+DOMAIN BREAKDOWN
+----------------------------------------
+  Research and Development              71 questions  (criticality=2)
+  Informational                         11 questions  (criticality=1)
+  General FAQ                            3 questions  (criticality=1)
+  Product and Technical Specs            3 questions  (criticality=2)
+  Compliance and Regulatory              1 questions  (criticality=3)
+  Onboarding and Training                1 questions  (criticality=1)
+  Pricing and Financial                  1 questions  (criticality=3)
+  Medical and Health                     1 questions  (criticality=3)
+  Data Privacy and Security              1 questions  (criticality=3)
+  Safety and Risk                        1 questions  (criticality=3)
+
+RECOMMENDATIONS
+----------------------------------------
+  ❌ INSUFFICIENT HIGH-CRITICALITY COVERAGE: Only 5.3% of questions (5/94) cover high-criticality domains. The question bank may be under-testing the areas where RAG failures carry the most business risk. Add questions covering compliance, legal, pricing, and safety domains.
+
+  ✅ CRITICALITY BALANCE: Low-criticality questions at 16.0% — within acceptable range.
+
+  ℹ️  SME INPUT REQUIRED: The domain-criticality map used in this analysis is illustrative. In production, this map should be defined by Subject Matter Experts who understand which query domains carry the highest business risk for this specific enterprise context.
+
+  ℹ️  MANUAL REVIEW: 6 questions could not be scored. Check per_query_scores.json for flagged entries.
+
+OUTPUT FILES
+----------------------------------------
+  per_query_scores.json      — per-question domain + criticality
+  criticality_report.json    — aggregate metrics
+  criticality_report.txt     — this report
+  distribution_criticality.png — criticality level distribution
+  domain_breakdown.png       — questions by domain
+=================================================================

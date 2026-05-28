@@ -1,0 +1,6 @@
+scaffolds:
+  topk3:
+    top_k: 3
+
+  topk8:
+    top_k: 8

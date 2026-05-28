@@ -1,0 +1,40 @@
+============================================================
+  QUESTION BANK DIAGNOSTIC REPORT
+  Semantic Coverage Analysis — Stanford CS321M
+  Generated: 2026-05-25 23:38 UTC
+============================================================
+
+COVERAGE AUDIT (RQ1: Corpus Coverage)
+----------------------------------------
+  Coverage Score:      2.9 / 10
+  Coverage Rate:       29.3%
+  Total clusters:      123
+  Covered clusters:    36
+  Blind spot clusters: 87
+  Queries in noise:    46
+
+DIVERSITY AUDIT (RQ2: Query Redundancy)
+----------------------------------------
+  Diversity Score:          4.6 / 10
+  Near-duplicate pairs:     0
+  Redundancy rate:          0.000
+  Query clusters found:     36
+  Mean inter-cluster dist:  0.9109
+  Normalized spread:        0.4555
+  Similarity threshold:     0.85
+
+RECOMMENDATIONS
+----------------------------------------
+  ❌ COVERAGE: Poor (29.3%). 87 of 123 corpus clusters have no questions. The question bank covers less than half the knowledge base. Significant expansion required. See blind_spot_clusters.json for uncovered topics.
+  ⚠️  DIVERSITY: Moderate (4.6/10). 0 near-duplicate pairs detected. Consider replacing redundant questions with ones covering underrepresented corpus regions.
+  ℹ️  NOISE TERRITORY: 46 queries do not strongly belong to any corpus cluster. These may be out-of-domain questions or cover very sparse corpus regions. Review manually.
+
+OUTPUT FILES
+----------------------------------------
+  diagnostic_report.json   — all metrics
+  blind_spot_clusters.json — uncovered corpus clusters
+  near_duplicate_pairs.json— near-duplicate query pairs
+  umap_2d_coverage.png     — corpus + query overlay
+  hdbscan_coverage_map.png — cluster coverage map
+  query_spread_map.png     — query diversity map
+============================================================

@@ -1,0 +1,75 @@
+You are an expert in information retrieval and RAG (Retrieval-Augmented Generation) system evaluation.
+
+Your task is to score a single query on ONE specific dimension: how complex the correct answer must be in terms of its form and completeness, independent of how hard it is to reason to that answer.
+
+---
+
+WHAT YOU ARE SCORING:
+Answer Form Complexity measures what the correct answer must look like — not how hard it is to find or reason to it. A simple-form answer is a single entity, date, name, or yes/no response. A complex-form answer requires exhaustive enumeration, multi-dimensional synthesis, precise calculation with post-processing, or a structured comprehensive response where omitting any component constitutes an incorrect answer.
+
+WHAT YOU ARE NOT SCORING:
+- How hard the evidence is to find (that is a separate dimension)
+- How complex the reasoning is (that is a separate dimension)
+- Only what the CORRECT ANSWER must look like matters here
+
+KEY INSIGHT: A query can have SIMPLE REASONING but COMPLEX FORM.
+Example: "List every author mentioned in this document" — reasoning is trivial (just read the document) but the answer form is complex because it requires exhaustive enumeration and any omission is an error.
+
+---
+
+SCORING RUBRIC:
+
+Score 1 — SIMPLE FORM
+The correct answer is a single entity, date, name, yes/no, or short phrase.
+One correct token or a short phrase fully and completely satisfies the query.
+No enumeration, calculation, or structural complexity required.
+A one-sentence answer would be complete and correct.
+Example: "Who won the 2022 Nobel Prize in Physics?" / "Is this method supervised or unsupervised?" / "What year was this dataset released?"
+
+Score 2 — STRUCTURED FORM
+The correct answer requires a comparison, a short bounded list, a multi-part response, or a simple calculation.
+The answer has internal structure but the scope is bounded — there are a known small number of components and missing one would be noticeable but not catastrophic.
+A short paragraph or structured list would constitute a complete answer.
+Example: "What are the three main contributions of this paper?" / "Compare the precision and recall of the two methods." / "What are the advantages and disadvantages of this approach?"
+
+Score 3 — COMPLEX FORM
+The correct answer requires exhaustive enumeration where completeness is essential, multi-dimensional synthesis across many components, numerical calculation requiring post-processing, or a comprehensive structured response where any omission constitutes failure.
+Partial answers are clearly insufficient — the query implicitly or explicitly demands completeness.
+Example: "List all datasets used across all experiments in this paper with their sizes and sources." / "Calculate the average improvement across all reported benchmarks." / "What are all the hyperparameters reported in the experimental setup?"
+
+---
+
+SIGNALS TO LOOK FOR:
+
+Signals that LOWER the score (simpler answer form):
+- "Who," "when," "what is" questions expecting a single entity
+- Yes/no questions
+- "What does X stand for" / "Define X"
+- Singular framing: "the method," "the author," "the result"
+
+Signals that RAISE the score (more complex answer form):
+- "List ALL," "enumerate," "what are ALL the" — exhaustive enumeration required
+- "Compare X and Y" — structured multi-part answer
+- "Calculate," "compute," "how many" — arithmetic required
+- "Every," "all," "exhaustively," "comprehensively" — completeness demanded
+- Post-processing language: "in percentage terms," "convert to," "express as," "rank by"
+- Multi-aspect questions: "for each X, what is Y" — structured tabular answer
+
+---
+
+INSTRUCTIONS:
+1. Read the query carefully.
+2. Think step by step about what a complete and correct answer would need to look like — how many components it would have, whether completeness is essential, and whether any transformation of information is required.
+3. Assign a score of 1, 2, or 3 based on the rubric above.
+4. Respond in this exact JSON format — no other text:
+
+{
+  "dimension": "answer_form_complexity",
+  "reasoning": "2-4 sentences explaining your score, specifically describing what a complete correct answer would need to look like and why that determines the score",
+  "score": 1
+}
+
+---
+
+QUERY TO SCORE:
+"{QUERY}"

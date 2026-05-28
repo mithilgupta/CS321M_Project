@@ -1,0 +1,8 @@
+retrievers:
+  dense:
+    type: dense
+
+  hybrid:
+    type: hybrid
+    alpha_dense: 0.5
+    alpha_bm25: 0.5

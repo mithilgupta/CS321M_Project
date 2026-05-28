@@ -1,0 +1,73 @@
+You are an expert in information retrieval and RAG (Retrieval-Augmented Generation) system evaluation.
+
+Your task is to score a single query on ONE specific dimension: how much reasoning is required to produce the correct answer, assuming the right evidence has already been retrieved.
+
+---
+
+WHAT YOU ARE SCORING:
+Reasoning Demand measures the number and type of inferential steps required to move from retrieved evidence to the correct answer. A low-demand query has its answer explicitly stated in a single passage — the system just needs to extract it. A high-demand query requires chaining multiple pieces of evidence, applying a specific reasoning operation (temporal, comparative, causal), or synthesizing across documents in a structured way.
+
+WHAT YOU ARE NOT SCORING:
+- How hard it is to find the evidence (that is a separate dimension)
+- How the query is phrased or worded
+- What form the final answer must take (that is a separate dimension)
+- Only the REASONING required to go from evidence to answer matters here
+
+---
+
+SCORING RUBRIC:
+
+Score 1 — DIRECT RETRIEVAL
+The answer is explicitly stated somewhere in the source material.
+One inference step or fewer is required — the system reads the answer and extracts it.
+No synthesis, comparison, calculation, or multi-step reasoning is required.
+Query types: factoid, definition, single-entity lookup, yes/no with explicit evidence.
+Example: "Who is the CEO of Anthropic?" / "What does RAG stand for?" / "In what year was this method first proposed?"
+
+Score 2 — MODERATE REASONING
+The answer requires 2-3 inference steps, OR requires a specific reasoning operation across one or two documents.
+Includes: simple temporal sequencing, straightforward comparison between two items, single-constraint application, connecting two related facts.
+The reasoning chain is clear and bounded — it does not require synthesizing many disparate sources.
+Example: "Which of these two methods was proposed first, and what was its core innovation?" / "How did the accuracy change between the baseline and the proposed method?"
+
+Score 3 — COMPLEX REASONING
+The answer requires multi-hop reasoning across multiple documents, OR requires a complex reasoning operation that cannot be completed from a single passage.
+Includes: multi-constraint intersection, causal chain tracing, temporal reasoning across many events, numerical calculation requiring multiple inputs, synthesis that requires integrating many independent facts into a coherent response.
+Example: "Trace the sequence of architectural decisions across the papers cited in this work that led to the current approach." / "What combination of factors, described across multiple sections, explains the performance gap between the two systems?"
+
+---
+
+SIGNALS TO LOOK FOR:
+
+Signals that LOWER the score (less reasoning required):
+- Question word is "who," "what," "when," "where" with a single clear answer
+- Query asks for a single named entity, date, or definition
+- Answer is likely to be a direct quote or extraction from one passage
+- "What is X" or "Define X" style queries
+
+Signals that RAISE the score (more reasoning required):
+- Question words "how," "why," "explain," "compare," "trace," "what caused"
+- Temporal language: "before," "after," "since," "led to," "resulting in"
+- Comparative language: "more than," "less than," "difference between," "relative to"
+- Multi-part questions joined by "and," "as well as," "both X and Y"
+- Causal or procedural framing: "what caused," "how did X lead to," "what was the sequence of"
+- Requires connecting facts from different parts of a document or different documents
+
+---
+
+INSTRUCTIONS:
+1. Read the query carefully.
+2. Think step by step about what reasoning operations would be required to answer this query, assuming you already had the right evidence in front of you.
+3. Assign a score of 1, 2, or 3 based on the rubric above.
+4. Respond in this exact JSON format — no other text:
+
+{
+  "dimension": "reasoning_demand",
+  "reasoning": "2-4 sentences explaining your score, specifically describing the inference steps required and why you assigned this level",
+  "score": 1
+}
+
+---
+
+QUERY TO SCORE:
+"{QUERY}"

@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-05-26T20:26:29.750980",
+  "llm_provider": "anthropic",
+  "llm_model": "claude-sonnet-4-5",
+  "n_total": 100,
+  "n_scored": 97,
+  "n_flagged": 3,
+  "composite_distribution": {
+    "n_scored": 99,
+    "mean": 1.458,
+    "std": 0.387,
+    "min": 1.0,
+    "max": 2.667,
+    "band_counts": {
+      "hard": 4,
+      "easy": 85,
+      "medium": 10
+    },
+    "band_pct": {
+      "easy": 0.859,
+      "medium": 0.101,
+      "hard": 0.04
+    }
+  },
+  "dimension_distributions": {
+    "query_formulation_difficulty": {
+      "n_scored": 98,
+      "counts": {
+        "1": 71,
+        "2": 15,
+        "3": 12
+      },
+      "mean": 1.398,
+      "std": 0.696,
+      "pct_low": 0.724,
+      "pct_med": 0.153,
+      "pct_high": 0.122
+    },
+    "reasoning_demand": {
+      "n_scored": 98,
+      "counts": {
+        "1": 43,
+        "2": 48,
+        "3": 7
+      },
+      "mean": 1.633,
+      "std": 0.613,
+      "pct_low": 0.439,
+      "pct_med": 0.49,
+      "pct_high": 0.071
+    },
+    "answer_form_complexity": {
+      "n_scored": 97,
+      "counts": {
+        "1": 64,
+        "2": 33,
+        "3": 0
+      },
+      "mean": 1.34,
+      "std": 0.474,
+      "pct_low": 0.66,
+      "pct_med": 0.34,
+      "pct_high": 0.0
+    }
+  },
+  "type_breakdown": {
+    "extractive": {
+      "n": 49,
+      "mean": 1.354,
+      "std": 0.319
+    },
+    "abstractive": {
+      "n": 50,
+      "mean": 1.56,
+      "std": 0.419
+    }
+  },
+  "recommendations": [
+    "\u274c SKEWED EASY: 85.9% of questions score in the easy band (85/99). The question bank is dominated by low-difficulty queries. This creates a ceiling effect \u2014 strong RAG systems cannot be differentiated from weak ones on this bank. Recommend adding at least 20 hard questions.",
+    "\u274c INSUFFICIENT HARD QUESTIONS: Only 4.0% of questions score in the hard band (4/99). A valid measurement instrument needs sufficient hard items to discriminate between high-performing systems. Recommend a minimum of 19 hard questions.",
+    "\u26a0\ufe0f  THIN MIDDLE: Only 10.1% medium-difficulty questions (10/99). The question bank lacks a gradient \u2014 it jumps from easy to hard without sufficient intermediate difficulty.",
+    "\u274c POOR BALANCE: Difficulty distribution deviates significantly from ideal thirds (Easy 85.9% / Medium 10.1% / Hard 4.0%). The question bank does not provide balanced difficulty coverage.",
+    "\u2139\ufe0f  MANUAL REVIEW NEEDED: 3 questions could not be scored by the LLM judge after retries. Check per_query_scores.json for questions with flagged_dims set."
+  ]
+}

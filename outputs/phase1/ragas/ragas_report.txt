@@ -1,0 +1,37 @@
+=================================================================
+  RAG EVALUATION REPORT — Stanford CS321M Phase 1
+  *** MOCK SCORES — ILLUSTRATIVE ONLY ***
+  Generated : 2026-05-27 23:28 UTC
+  Threshold : 0.75 (pass/fail for Glicko-2)
+  To replace with real scores: python src/analysis/ragas_score.py
+=================================================================
+
+OVERALL (MOCK)
+----------------------------------------
+  Records scored       : 1200
+  Systems evaluated    : 12
+  Faithfulness mean    : 0.6448
+  Answer relevance mean: 0.7050
+  Composite mean       : 0.6749
+  Overall pass rate    : 0.3350
+
+PER-SYSTEM RESULTS (sorted by composite)
+----------------------------------------
+  System                                Faith     Rel    Comp    Pass
+  -----------------------------------------------------------
+  strong_api__hybrid__topk8            0.8020  0.8576  0.8298  0.9300
+  strong_api__hybrid__topk3            0.7752  0.8409  0.8080  0.8200
+  strong_api__dense__topk8             0.7771  0.8316  0.8043  0.8400
+  strong_api__dense__topk3             0.7519  0.8097  0.7808  0.7200
+  mid_api__hybrid__topk8               0.6918  0.7403  0.7161  0.2900
+  mid_api__hybrid__topk3               0.6666  0.7328  0.6997  0.1900
+  mid_api__dense__topk8                0.6583  0.7291  0.6937  0.1500
+  mid_api__dense__topk3                0.6421  0.6997  0.6709  0.0800
+  local_open__hybrid__topk8            0.5296  0.5814  0.5555  0.0000
+  local_open__hybrid__topk3            0.5084  0.5582  0.5333  0.0000
+  local_open__dense__topk8             0.4780  0.5429  0.5105  0.0000
+  local_open__dense__topk3             0.4564  0.5360  0.4962  0.0000
+
+NOTE: pass_fail column feeds into Phase 2 Glicko-2.
+NOTE: These are MOCK scores. Run ragas_score.py for real results.
+=================================================================

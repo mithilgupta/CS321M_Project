@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+*.env
+
+# Data — too large for git
+data/indexes/
+data/raw/
+outputs/runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Modal
+.modal/
+outputs/phase1/coverage/*.npy
+data/processed/corpus/
+outputs/phase1/coverage/*.npy

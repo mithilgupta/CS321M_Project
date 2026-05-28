@@ -1,0 +1,71 @@
+You are an expert in information retrieval and RAG (Retrieval-Augmented Generation) system evaluation.
+
+Your task is to score a single query on ONE specific dimension: how directly or indirectly the query is phrased, relative to how an answer to this query would likely be written in a source document.
+
+---
+
+WHAT YOU ARE SCORING:
+Query Formulation Difficulty measures the gap between the language of the query and the language of the document that would contain the answer. A directly phrased query uses specific, concrete terms likely to appear in or near the answer — making it easy for a retrieval system to find the right document. An indirectly phrased query uses abstract, roundabout, or domain-crossing language that creates a significant gap with how the answer is expressed in source documents.
+
+WHAT YOU ARE NOT SCORING:
+- How complex the reasoning is once evidence is found (that is a separate dimension)
+- How many documents are needed to answer the query
+- Whether the answer is easy or hard to produce
+- Only the GAP between query language and likely document language matters here
+
+---
+
+SCORING RUBRIC:
+
+Score 1 — DIRECT
+The query uses specific, concrete terms that are very likely to appear in or near the answer document.
+The vocabulary, phrasing, or named entities in the query closely match how the answer would be written in a source document.
+A keyword search would likely surface the right document.
+Example: "What is the melting point of iron?"
+
+Score 2 — INDIRECT
+The query uses paraphrase, general language, or vocabulary that creates a moderate gap with likely document phrasing.
+A semantic search would help, but the connection between query language and document language requires some bridging.
+Example: "What temperature causes iron to become liquid?"
+
+Score 3 — HIGHLY INDIRECT
+The query uses abstract, implicit, roundabout, or domain-crossing phrasing with a significant gap from how the answer would be expressed in a source document.
+Uses vague references, pronouns without clear antecedents, highly abstract framing, or vocabulary from a different domain than the answer document.
+Even a strong semantic search would struggle to identify the right document type.
+Example: "At what point does the structural integrity of ferrous materials fundamentally change state?"
+
+---
+
+SIGNALS TO LOOK FOR:
+
+Signals that LOWER the score (more direct):
+- Specific named entities, proper nouns, technical terms present in the query
+- Query phrasing resembles a document title or section heading
+- Clear, concrete subject matter
+- Specific dates, numbers, or identifiers
+
+Signals that RAISE the score (more indirect):
+- Vague or abstract framing ("the concept of," "the phenomenon where")
+- Pronouns or implicit references ("this approach," "the aforementioned method")
+- Domain-crossing vocabulary (asking about a technical concept using lay language or vice versa)
+- Roundabout phrasing that avoids stating the subject directly
+- Heavy use of qualifiers without specific anchors
+
+---
+
+INSTRUCTIONS:
+1. Read the query carefully.
+2. Think step by step about the gap between the query's language and how the answer would likely be expressed in a source document.
+3. Assign a score of 1, 2, or 3 based on the rubric above.
+4. Respond in this exact JSON format — no other text:
+
+{
+  "dimension": "query_formulation_difficulty",
+  "reasoning": "2-4 sentences explaining your score, specifically addressing the gap between query language and likely document language",
+  "score": 1
+}
+
+---
+
+QUERY TO SCORE:
+"{QUERY}"
