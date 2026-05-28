@@ -221,20 +221,6 @@ and writes to `outputs/phase2/`.
 
 ---
 
-## Expected Runtime and Compute
-
-| Component | Runtime | API Cost | Environment |
-|---|---|---|---|
-| Query difficulty scoring | ~15 min | ~$1.40 | cs321m |
-| Business criticality scoring | ~5 min | ~$0.50 | cs321m |
-| Semantic coverage analysis | ~10 min | $0 | cs321m |
-| RAG system runs (Modal) | ~45 min | ~$4.00 | Modal |
-| RAGAS scoring (real) | ~60 min | ~$0.60 | cs321m_ragas |
-| RAGAS scoring (mock) | <1 min | $0 | cs321m |
-| Glicko-2 calibration | <5 min | $0 | cs321m |
-
----
-
 ## Dataset
 
 This project uses **OpenRAGBench** by Vectara:
